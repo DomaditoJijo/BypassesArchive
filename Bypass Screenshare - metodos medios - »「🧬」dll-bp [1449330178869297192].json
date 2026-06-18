@@ -1,0 +1,83 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1449330178869297192",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83E\uDDEC」dll-bp",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:17.9932132-03:00",
+  "messages": [
+    {
+      "id": "1451338757474095290",
+      "type": "Default",
+      "timestamp": "2025-12-18T19:22:04.352-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Metodo simple, pero muy efectivo (bypass asegurado en mayoria de svs chotos lol)\n\n1)  abre eventvwr con win + r = `eventvwr`\n\n2) abre el apartado de \"registros de windows\"\n\n3) luego click derecho en \"sistema\" y selecciona propiedades\n\n4) en ruta de registro, cambia o el nombre, o la ruta al archivo, cualquier cosa solo para que el archivo no sea el mismo de antes (tengan como nota guardar el anterior, por defecto viene asi por si lo pierden: `%SystemRoot%\\System32\\Winevt\\Logs\\System.evtx`)\n\n5) luego de cambiar el archivo, cambien la hora del pc a la que quieran, ejecuten el cheat, vuelven la hora a la normal y vuelvan a cambiarlo a como estaba antes al .evtx\n\n6) cuando los frozeen hagan lo mismo, cambien el nombre, luego la hora del pc, luego borran el cheat, cambian la hora a la actual y cambian el archivo de .evtx al normal\n\nGG, con eso si les encuentran por algun lado q ejecutaron el cheat diganles q lo borraron hace  banda y solo estaban probandolo enconces probablemente se fijen en journal si se borro y veran q se borro hace horas tonces gg, hay q tener cuidado igual porque ciertos logs pueden no coincidir las fechas, por ej si el archivo genera otros y esos tienen fechas actuales pero el cheat antiguos sería raro, pero siempre y cuando el servidor solo sancione por cheats en instancia, es gg",
+      "author": {
+        "id": "1149799913727721485",
+        "name": "spokkkwn.",
+        "discriminator": "0000",
+        "nickname": "stupid ass ego skid #1",
+        "color": "#033100",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489112343983030272",
+            "name": "1337",
+            "color": "#033100",
+            "position": 13
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1149799913727721485/b24986060349791144eaba260105c5f5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD16",
+            "code": "robot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f916.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1264197693539090547",
+              "name": "owingsaki",
+              "discriminator": "0000",
+              "nickname": "Owing",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1264197693539090547/dc139ec477f7841d3895f54367078b70.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

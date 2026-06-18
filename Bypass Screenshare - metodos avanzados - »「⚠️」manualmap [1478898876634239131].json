@@ -1,0 +1,223 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1478898876634239131",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「⚠️」manualmap",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:38.4248203-03:00",
+  "messages": [
+    {
+      "id": "1478900245843673222",
+      "type": "Default",
+      "timestamp": "2026-03-04T20:41:35.247-03:00",
+      "timestampEdited": "2026-03-04T20:52:49.049-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "se utiliza bastante similar al otro manualmap #»「✋」manual-map , solo que este deja menos logs y lo recomiendo mucho mas\n\nabren el manualmap, nombre del dll, proceso al que quieren injectar y luego ruta completa del dll\n\n\n\nPath to the manualmap.exe (adjust if different)\n$exePath = \"C:\\Users\\Administrator\\Desktop\\ManualMap.exe\"\n\nArguments for the program: dllName, processName, and dllPath (adjust with real values)\n$dllName = \"DLLIMPORT\"  # Name of the injection DLLIMPORT\n$processName = \"PROCESSNAME\"  # Name of the target process\n$dllPath = \"PATHDLL\"  # Full path to the DLL to inject\n\nif (-not (Test-Path $exePath)) {\n    exit\n}\n\nif (-not (Test-Path $dllPath)) {\n    exit\n}\n\n$bytes = [System.IO.File]::ReadAllBytes($exePath)\n$asm = [System.Reflection.Assembly]::Load($bytes)\n$argsArray = [string[]] @($dllName, $processName, $dllPath)\n$asm.EntryPoint.Invoke($null, (, $argsArray))",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1478900245269057667",
+          "url": "https://cdn.discordapp.com/attachments/1478898876634239131/1478900245269057667/ManualMap.exe?ex=6a34822f&is=6a3330af&hm=fc6f146a599d87f6638a39369f900c2eba6766bd4392cd78f6b36afa1139e5fc&",
+          "fileName": "ManualMap.exe",
+          "fileSizeBytes": 71680
+        },
+        {
+          "id": "1478900245550207130",
+          "url": "https://cdn.discordapp.com/attachments/1478898876634239131/1478900245550207130/Inject.dll?ex=6a34822f&is=6a3330af&hm=ce1a646b408b241a0a0353d2f7763277aee821f426660ba9789425acc359badf&",
+          "fileName": "Inject.dll",
+          "fileSizeBytes": 36864
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC12",
+            "code": "monkey",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f412.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1322533714277961791",
+              "name": "solary67",
+              "discriminator": "0000",
+              "nickname": "Slinky",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478902158383513641",
+      "type": "Default",
+      "timestamp": "2026-03-04T20:49:11.232-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "creditos: @diff",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1029486936676630605",
+          "name": "shiya.py",
+          "discriminator": "0000",
+          "nickname": "diff",
+          "color": "#AD1439",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1466788496831283425",
+              "name": "me gusta la verga",
+              "color": "#AD1439",
+              "position": 16
+            },
+            {
+              "id": "1476228867621523630",
+              "name": "femboy",
+              "color": "#612BB8",
+              "position": 14
+            },
+            {
+              "id": "1485053790242476102",
+              "name": "Verified",
+              "color": "#2C6D2C",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1029486936676630605/ff7530f17b4ef3f4d879a674c5f6eb0b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478904097288487002",
+      "type": "Default",
+      "timestamp": "2026-03-04T20:56:53.503-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/MycT6XuFlxc",
+      "author": {
+        "id": "1029486936676630605",
+        "name": "shiya.py",
+        "discriminator": "0000",
+        "nickname": "diff",
+        "color": "#AD1439",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1466788496831283425",
+            "name": "me gusta la verga",
+            "color": "#AD1439",
+            "position": 16
+          },
+          {
+            "id": "1476228867621523630",
+            "name": "femboy",
+            "color": "#612BB8",
+            "position": 14
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1029486936676630605/ff7530f17b4ef3f4d879a674c5f6eb0b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "2026 03 04 18 52 33",
+          "url": "https://www.youtube.com/watch?v=MycT6XuFlxc",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "Diffwz",
+            "url": "https://www.youtube.com/channel/UC8qi45nC2CGLZFbcZh8WYxg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/MIHbDavYcnB8UQUTfv4MRwmPm2oVVCDGOFjD_CcbGhE/https/i.ytimg.com/vi/MycT6XuFlxc/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/MycT6XuFlxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/MycT6XuFlxc",
+            "canonicalUrl": "https://www.youtube.com/embed/MycT6XuFlxc",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

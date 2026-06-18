@@ -1,0 +1,68 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1435718769497608263",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDCBD」diskpart",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:19:29.7418252-03:00",
+  "messages": [
+    {
+      "id": "1452340206865879102",
+      "type": "Default",
+      "timestamp": "2025-12-21T13:41:28.493-03:00",
+      "timestampEdited": "2026-05-08T16:35:15.911-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esto es para bypasear tools que scanean discos especificos, por ejemplo como cuando en journal seleccionamos Disco C, D, etc\nvan a abrir cmd y escriben Diskpart\n\nen el cmd que se les abre ponen: \n\ndiskpart\ncreate vdisk file=C:\\disco.vhd maximum=512\nselect vdisk file=C:\\disco.vhd\nattach vdisk\nconvert mbr\ncreate partition primary\nselect partition 1\nformat fs=fat32 quick\nassign letter=Z\nexit\n\nse les va a crear la carpeta, meten su cheat, lo ejecutan y lo expulsan\n\n\nsi quieren revertir/eliminar el disco diskpart, lo hacen con este comando \n\ndiskpart\nselect vdisk file=\"C:\\disco.vhd\"\ndetach vdisk\nexit\n\n(en cmd)\n\ndespues van a C:\\disco.vhd y lo eliminan",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1452340206215626908",
+          "url": "https://cdn.discordapp.com/attachments/1435718769497608263/1452340206215626908/image.png?ex=6a341fb8&is=6a32ce38&hm=854e68f61964198afa458b59ec5b4e76a2b6eb681256de9bfd719e773021516f&",
+          "fileName": "image.png",
+          "fileSizeBytes": 59660
+        },
+        {
+          "id": "1452340206786183188",
+          "url": "https://cdn.discordapp.com/attachments/1435718769497608263/1452340206786183188/image.png?ex=6a341fb8&is=6a32ce38&hm=013235d760e911c77e22540921bbfb7f60eb158ba272b6a071918d7017a5924d&",
+          "fileName": "image.png",
+          "fileSizeBytes": 13596
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

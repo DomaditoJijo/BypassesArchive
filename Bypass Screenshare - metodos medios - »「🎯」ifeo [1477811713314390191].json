@@ -1,0 +1,84 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1477811713314390191",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83C\uDFAF」ifeo",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:24.0528663-03:00",
+  "messages": [
+    {
+      "id": "1477814786971402371",
+      "type": "Default",
+      "timestamp": "2026-03-01T20:48:21.685-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "el ifeo es una ruta de regedit en la cual podemos hacer que al ejecutar un exe con un nombre en especifico, en lugar de ejecutarse ese exe, se ejecute un exe de otra ruta\n\neste metodo nos puede servir para por ejemplo camuflar autoclickers, ejecutandolo normalmente con doble click para que cuando encuentren el log y quieran corroborar que es un cheat, se les va a abrir un exe legit.\n\npara hacer esto van a ir a la ruta de regedit\n\nHKLM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\n\ndespues le dan a nueva clave  y ponen el nombre del exe, por ejemplo cheat.exe, despues a esa clave  le hacen click derecho, van a nuevo, valor de cadena y escriben Debugger, en esa clave que se creo van a poner la ruta del exe que quieren que es ejecute y listo\n\nles dejo un video de ejemplo:",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1477814786308964372",
+          "url": "https://cdn.discordapp.com/attachments/1477811713314390191/1477814786308964372/asdas.mp4?ex=6a3483c5&is=6a333245&hm=e5524672da0a24efe7166916f9f83f377163bdbb485141968980345e1804be1e&",
+          "fileName": "asdas.mp4",
+          "fileSizeBytes": 9511371
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "402915960136269846",
+              "name": "shirin_",
+              "discriminator": "0000",
+              "nickname": "Sh1ro",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/402915960136269846/7e1439aff43315d4808188b90acfbb55.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

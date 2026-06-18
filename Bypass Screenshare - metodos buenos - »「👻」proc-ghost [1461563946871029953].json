@@ -1,0 +1,111 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1461563946871029953",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83D\uDC7B」proc-ghost",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:21.7265773-03:00",
+  "messages": [
+    {
+      "id": "1461564167810056306",
+      "type": "Default",
+      "timestamp": "2026-01-16T00:34:12.155-03:00",
+      "timestampEdited": "2026-01-19T22:38:57.798-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/hasherezade/process_ghosting/releases/tag/1.0\n\nes un tipo de pe injection, lo q hace es cargar y ejecutar un ejecutable en la memoria sin q exista el .exe\n\n\nen el payload pones la ruta del exe que  queres ejecutar y el target path seria el .exe legit que en realidad se va a ejecutar en tu pc\n\ndeja un  .tmp en dps",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Release 1.0 · hasherezade/process_ghosting",
+          "url": "https://github.com/hasherezade/process_ghosting/releases/tag/1.0",
+          "timestamp": null,
+          "description": "",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NFEA-eI1c0WCudio2YjGXoSqOrwewQNezlgJkhm63LA/https/opengraph.githubassets.com/b0e9458f4435599da5dd4a68eac9874c9cb68e901d4e4bcdc2d3ab61b73fd1cc/hasherezade/process_ghosting/releases/tag/1.0",
+            "canonicalUrl": "https://opengraph.githubassets.com/b0e9458f4435599da5dd4a68eac9874c9cb68e901d4e4bcdc2d3ab61b73fd1cc/hasherezade/process_ghosting/releases/tag/1.0",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481730557602697357",
+      "type": "Default",
+      "timestamp": "2026-03-12T16:08:14.155-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1481730557145645259",
+          "url": "https://cdn.discordapp.com/attachments/1461563946871029953/1481730557145645259/proc_ghost.png?ex=6a34421e&is=6a32f09e&hm=dd366203ea33e5eff27dfaa0fb210fb024f77dadab29ff3c71a63b6f8821a34c&",
+          "fileName": "proc_ghost.png",
+          "fileSizeBytes": 29815
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

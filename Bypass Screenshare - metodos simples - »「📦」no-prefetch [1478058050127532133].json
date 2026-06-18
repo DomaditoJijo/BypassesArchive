@@ -1,0 +1,68 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1478058050127532133",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDCE6」no-prefetch",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:19:33.5397326-03:00",
+  "messages": [
+    {
+      "id": "1478058524599910503",
+      "type": "Default",
+      "timestamp": "2026-03-02T12:56:53.264-03:00",
+      "timestampEdited": "2026-03-02T12:59:14.965-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "este metodo se me ocurrio el otro dia y tiene sus cosas buenas y malas, asi que lo pongo en la categoria basic, no lo critiquen\n\nvan a ir a la carpeta Prefetch, seleccionan el log .pf que quieren que no aparezca, lo abren con bloc de notas, borran todo el contenido y guardan el pf tal cual esta, como pueden ver en journaltrace no aparece nada raro mas q el data truncation  y la tool de Diff no lo scanea\n\n\nuna vulnerabilidad de este metodo es que si seleccionamos el .pf en winprefetchview saldria el log pero esta totalmente en blanco, no se puede leer, y pueden darse cuenta de este bypass\n\n\nno sale como pf deleteado.",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1478058524235010048",
+          "url": "https://cdn.discordapp.com/attachments/1478058050127532133/1478058524235010048/image.png?ex=6a341545&is=6a32c3c5&hm=628ae5304c7dcb8abbf16b39f44862df06c41e690d0ab77d56b675f28922cb66&",
+          "fileName": "image.png",
+          "fileSizeBytes": 6748
+        },
+        {
+          "id": "1478058524616560770",
+          "url": "https://cdn.discordapp.com/attachments/1478058050127532133/1478058524616560770/image.png?ex=6a341545&is=6a32c3c5&hm=6c3c2c463cbc711456599317e1bbc0c11ffcb22b923d317596c2c02fd354f515&",
+          "fileName": "image.png",
+          "fileSizeBytes": 65912
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

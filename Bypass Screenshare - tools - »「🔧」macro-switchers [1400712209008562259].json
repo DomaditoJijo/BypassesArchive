@@ -1,0 +1,189 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1400712209008562259",
+    "type": "GuildTextChat",
+    "categoryId": "1479343192078811136",
+    "category": "tools",
+    "name": "»「\uD83D\uDD27」macro-switchers",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:22:31.4355093-03:00",
+  "messages": [
+    {
+      "id": "1400712276595707934",
+      "type": "Default",
+      "timestamp": "2025-08-01T02:30:30.716-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1400712276310229034",
+          "url": "https://cdn.discordapp.com/attachments/1400712209008562259/1400712276310229034/HCF-SWITCHER.exe?ex=6a342b36&is=6a32d9b6&hm=7f2f24a8aebc975e4c0ef58af3dc53328c5570ea1cf31b10dbfa4185dc969aa5&",
+          "fileName": "HCF-SWITCHER.exe",
+          "fileSizeBytes": 17920
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1476648354636107837",
+      "type": "Default",
+      "timestamp": "2026-02-26T15:33:22.545-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1476648354388770916",
+          "url": "https://cdn.discordapp.com/attachments/1400712209008562259/1476648354388770916/Penguin.exe?ex=6a3439f2&is=6a32e872&hm=5424cac39eaac00f4292aae3c03bdb37ba3968cd7b241364bc990ca1462150c9&",
+          "fileName": "Penguin.exe",
+          "fileSizeBytes": 11264
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1476648537528996042",
+      "type": "Default",
+      "timestamp": "2026-02-26T15:34:06.15-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "penguin en dll xd",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1476648537226739742",
+          "url": "https://cdn.discordapp.com/attachments/1400712209008562259/1476648537226739742/IEShims.dll?ex=6a343a1e&is=6a32e89e&hm=67529058c6d7e60b2af99e6b0912d96a19ffcc453269f69680a720943cd246af&",
+          "fileName": "IEShims.dll",
+          "fileSizeBytes": 24064
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC26",
+            "code": "bird",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f426.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "1141815380994707549",
+              "name": "tonyboy90_",
+              "discriminator": "0000",
+              "nickname": "! \uD835\uDE4F\uD835\uDE64\uD835\uDE63\uD835\uDE6E\uD835\uDE63\uD835\uDE64\uD835\uDE5D ✞",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1141815380994707549/469cf37c0f874327edde469d0db3f7a7.png?size=512"
+            },
+            {
+              "id": "1159617478725480580",
+              "name": "bestarcherculos",
+              "discriminator": "0000",
+              "nickname": "Bravve",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1159617478725480580/79177a8ec4adb01acf16fd9893ea5476.png?size=512"
+            },
+            {
+              "id": "1322533714277961791",
+              "name": "solary67",
+              "discriminator": "0000",
+              "nickname": "Slinky",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+            },
+            {
+              "id": "1403035803881308190",
+              "name": "proteno",
+              "discriminator": "0000",
+              "nickname": "Santiago",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403035803881308190/017780599928fe200308b6dbcec431a7.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

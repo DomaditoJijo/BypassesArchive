@@ -1,0 +1,713 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1385699377066147870",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDCBB」no-powershell-history",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:19:35.3820518-03:00",
+  "messages": [
+    {
+      "id": "1385699474747293857",
+      "type": "Default",
+      "timestamp": "2025-06-20T16:14:59.831-03:00",
+      "timestampEdited": "2025-06-20T16:20:02.568-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hay muchos métodos de bypass en los cuales tendremos que deshabilitar, habilitar y poner comandos en Powershell. Este método consiste en deshabilitar ConsoleHost_history.txt, el cual se encarga de almacenar los comandos que introduzcamos en Powershell. De esta manera los rastros de haber utilizado algún método de bypass disminuyen.\n\nPasos\n1) Abriremos PowerShell en modo de administrador\n2) Ejecutaremos el siguiente comando: Set-PSReadlineOption -HistorySaveStyle SaveAtExit\n3) nos dirrigiremos a ConsoleHost_history.txt y eliminaremos el registro de este comando (Busquen el archivo con everything)",
+      "author": {
+        "id": "732724718209204224",
+        "name": "pate8079",
+        "discriminator": "0000",
+        "nickname": "topaz",
+        "color": "#020202",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1505782196869533757",
+            "name": "topaz",
+            "color": "#020202",
+            "position": 34
+          },
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1452342026002759801",
+            "name": "papu",
+            "color": "#9E6BFF",
+            "position": 31
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          },
+          {
+            "id": "1433743585190088735",
+            "name": "Screensharer",
+            "color": "#D4843D",
+            "position": 26
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385699684768551014",
+      "type": "Default",
+      "timestamp": "2025-06-20T16:15:49.904-03:00",
+      "timestampEdited": "2025-06-20T16:15:56.331-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "( Si van a borrar el journal o algun otro comando de cmd, mejor hacerlo en powershell y borrar el historial de comandos )",
+      "author": {
+        "id": "732724718209204224",
+        "name": "pate8079",
+        "discriminator": "0000",
+        "nickname": "topaz",
+        "color": "#020202",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1505782196869533757",
+            "name": "topaz",
+            "color": "#020202",
+            "position": 34
+          },
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1452342026002759801",
+            "name": "papu",
+            "color": "#9E6BFF",
+            "position": 31
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          },
+          {
+            "id": "1433743585190088735",
+            "name": "Screensharer",
+            "color": "#D4843D",
+            "position": 26
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478224283116503202",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:55:33.174-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "si no les funciona",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478224321242468435",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:55:42.264-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "notepad $PROFILE",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478224326175232141",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:55:43.44-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Set-PSReadLineOption -HistorySaveStyle SaveNothing",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478224334454784176",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:55:45.414-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "guardar",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481715524357587064",
+      "type": "Default",
+      "timestamp": "2026-03-12T15:08:29.95-03:00",
+      "timestampEdited": "2026-03-27T00:38:57.875-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "otra es quitarle permisos al txt de consolehost_history de manera que no pueda escribirse",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481715548978151464",
+      "type": "Default",
+      "timestamp": "2026-03-12T15:08:35.82-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1481715548344549591",
+          "url": "https://cdn.discordapp.com/attachments/1385699377066147870/1481715548344549591/2026-03-12_03-12-05.mp4?ex=6a343423&is=6a32e2a3&hm=e15d02ba329064c83d76f0853ad8419828c6245a66cc5fe4bdc947a6db72f7ff&",
+          "fileName": "2026-03-12_03-12-05.mp4",
+          "fileSizeBytes": 2263340
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482674411780702251",
+      "type": "Default",
+      "timestamp": "2026-03-15T06:38:46.527-03:00",
+      "timestampEdited": "2026-03-15T06:39:10.238-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Paso 3 metodos mas\n\n1. con icacls le pueden quitar perms:\n```powershell\nicacls ConsoleHost_history.txt /deny %username%:W (La misma mierda que con Prefetch)```\n\n2. Pueden usar $Null\n```powershell\nSet-PSReadLineOption -HistorySavePath $null```\n\n3. Si quieren disimular que esta realmente activo, pueden usar un filtro, en este caso un filtro que hace que no se guarden comandos con \"password\" ustedes lo cambian por lo que sea (Es un ejemplo)\n```powershell\nSet-PSReadLineOption -AddToHistoryHandler {\n    param($line)\n\n    if ($line -match \"password\") {\n        return $false\n    }\n\n    return $true\n}```\n\nNo hace faltan tantos metodos pero envio todos, jaja salu2.",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497674179741487274",
+      "type": "Default",
+      "timestamp": "2026-04-25T16:02:29.891-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "en vez",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497674183641927879",
+      "type": "Default",
+      "timestamp": "2026-04-25T16:02:30.821-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "de usar",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497674198762393753",
+      "type": "Default",
+      "timestamp": "2026-04-25T16:02:34.426-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "toda esta mierda q tienen aca",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497674241628176485",
+      "type": "Default",
+      "timestamp": "2026-04-25T16:02:44.646-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "les hago un tutorial mas facil para bypassear consolehost_history",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497674265569525770",
+      "type": "Default",
+      "timestamp": "2026-04-25T16:02:50.354-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "primero van a su buscador de windows",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497674351774793849",
+      "type": "Default",
+      "timestamp": "2026-04-25T16:03:10.907-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "y buscan esta version de powershell.",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1497674351472939009",
+          "url": "https://cdn.discordapp.com/attachments/1385699377066147870/1497674351472939009/imagen.png?ex=6a3440ee&is=6a32ef6e&hm=e42a8812be4f66c82b2c2b9958db542766f718b8c72c018c6a88987fe0531e49&",
+          "fileName": "imagen.png",
+          "fileSizeBytes": 1228
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497674407278153830",
+      "type": "Default",
+      "timestamp": "2026-04-25T16:03:24.14-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ejecutan su comando sea fileless o lo q sea y no logearia en consolehost",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497674464694112529",
+      "type": "Default",
+      "timestamp": "2026-04-25T16:03:37.829-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "eso es todo",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 17
+}

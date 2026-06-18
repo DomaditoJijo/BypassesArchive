@@ -1,0 +1,90 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1493682582070759525",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83C\uDF74」process-forking-injection",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:23.9543771-03:00",
+  "messages": [
+    {
+      "id": "1493682799104753745",
+      "type": "Default",
+      "timestamp": "2026-04-14T15:42:10.591-03:00",
+      "timestampEdited": "2026-04-14T15:45:51.564-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/deepinstinct/Dirty-Vanity\n\nmete el codigo del cheat adentro de un proceso de windows\n\nse usa igual q todos los injectors, en cmd ponen el injector.exe cheat.exe legit.exe\n\nsi les sirve agradezcanle a @\uD804\uDC6F ੭ por pasarlo",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - deepinstinct/Dirty-Vanity: A POC for the new injection tec...",
+          "url": "https://github.com/deepinstinct/Dirty-Vanity",
+          "timestamp": null,
+          "description": "A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html#dirty-vanity-a-new-approach-to-code-injection--edr-bypass...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7pbT6uE5ARlzmNCQl3yWaws8ZYHmSTsofx1-RetLThg/https/opengraph.githubassets.com/55472229cc1ff2a75919135b0f346daa0b9fe35cb79f32d0409f9593906af20c/deepinstinct/Dirty-Vanity",
+            "canonicalUrl": "https://opengraph.githubassets.com/55472229cc1ff2a75919135b0f346daa0b9fe35cb79f32d0409f9593906af20c/deepinstinct/Dirty-Vanity",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1345619454414815342",
+          "name": "_2_0_1_0_",
+          "discriminator": "0000",
+          "nickname": "\uD804\uDC6F ੭",
+          "color": "#2C6D2C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1485053790242476102",
+              "name": "Verified",
+              "color": "#2C6D2C",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1345619454414815342/4ff879dc76e027e6e68d507afb675ebc.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

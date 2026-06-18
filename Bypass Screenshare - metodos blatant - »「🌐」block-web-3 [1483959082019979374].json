@@ -1,0 +1,144 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1483959082019979374",
+    "type": "GuildTextChat",
+    "categoryId": "1451789143733567578",
+    "category": "metodos blatant",
+    "name": "»「\uD83C\uDF10」block-web-3",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:20:34.5825709-03:00",
+  "messages": [
+    {
+      "id": "1483959123262570597",
+      "type": "Default",
+      "timestamp": "2026-03-18T19:43:45.613-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD804\uDC6F ੭",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1345619454414815342",
+          "name": "_2_0_1_0_",
+          "discriminator": "0000",
+          "nickname": "\uD804\uDC6F ੭",
+          "color": "#2C6D2C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1485053790242476102",
+              "name": "Verified",
+              "color": "#2C6D2C",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1345619454414815342/4ff879dc76e027e6e68d507afb675ebc.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1483992265562132561",
+      "type": "Default",
+      "timestamp": "2026-03-18T21:55:27.353-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ps me esforce con esto y la verdad es muy util  ya que no vi en ningun lado que den info sobre esto\n\nPongan esto en CMD y se les bloquea todo github:\n`curl -s -o NUL -w \"%{certs}\" https://github.com > github.pem & certutil -addstore Disallowed github.pem & del github.pem`\n\nSi quieren desactivar el bloqueo, utilicen lo siguiente en CMD:\n\n`certutil -delstore Disallowed AB58EA128BA92CA69A31B36B4E545653EED2A6CF`",
+      "author": {
+        "id": "1345619454414815342",
+        "name": "_2_0_1_0_",
+        "discriminator": "0000",
+        "nickname": "\uD804\uDC6F ੭",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345619454414815342/4ff879dc76e027e6e68d507afb675ebc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1483992264828260484",
+          "url": "https://cdn.discordapp.com/attachments/1483959082019979374/1483992264828260484/2026-03-18_19-41-29.mp4?ex=6a33eabf&is=6a32993f&hm=89b344f7489af772abbd3a01e916849da4b9c88d4b556f8dfbf7309baeb257f3&",
+          "fileName": "2026-03-18_19-41-29.mp4",
+          "fileSizeBytes": 8526847
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1483992329739305000",
+      "type": "Default",
+      "timestamp": "2026-03-18T21:55:42.654-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "y si claude carreó",
+      "author": {
+        "id": "1345619454414815342",
+        "name": "_2_0_1_0_",
+        "discriminator": "0000",
+        "nickname": "\uD804\uDC6F ੭",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345619454414815342/4ff879dc76e027e6e68d507afb675ebc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

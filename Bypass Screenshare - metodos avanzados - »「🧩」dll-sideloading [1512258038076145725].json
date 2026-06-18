@@ -1,0 +1,55 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1512258038076145725",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「\uD83E\uDDE9」dll-sideloading",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:41.6733092-03:00",
+  "messages": [
+    {
+      "id": "1512258937804558427",
+      "type": "Default",
+      "timestamp": "2026-06-04T21:57:07.185-03:00",
+      "timestampEdited": "2026-06-04T22:02:47.902-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esta tecnica de injeccion  consiste en engañar a archivos legitimos para hacer creer que estan ejecutando dlls de su propio codigo, pero en realidad abre nuestro cheat, por lo cual sale firmado en todos lados\n\n\nles doy un ejemplo para que se entienda mejor:\n\nustedes abren OBS.exe y el exe para ejecutarse necesita abrir un dll para que funcione correctamente\n\nlo que vamos a hacer es reemplazar ese dll que OBS.exe buscaria para que funcione y poner nuestro cheat ahi\n\nejemplo real: \n\nexplorer.exe al iniciarse necesita ntshrui.dll para iniciarse, solo busquenlo en everything y replaceenlo\n\n(no lo hagan con explorer porque van a romper la pc, es un ejemplo, si lo quieren aplicar usen exes externos a su pc cosa que si la falta de dll corruptea el programa, solo lo reinstalas y listo)",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,126 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1386025098552672447",
+    "type": "GuildTextChat",
+    "categoryId": "1479343192078811136",
+    "category": "tools",
+    "name": "»「\uD83D\uDCA5」mc-crasher",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:21:32.6093096-03:00",
+  "messages": [
+    {
+      "id": "1386025422281773176",
+      "type": "Default",
+      "timestamp": "2025-06-21T13:50:11.779-03:00",
+      "timestampEdited": "2025-06-21T13:51:09.014-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esto es bastante conocido, se basa en que nosotros antes de aceptarle el anydesk al staff vamos a ejecutar este .exe y despues de 2 minutos el juego va a crashear y se van a cleanear todas las strings",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1386025421950161037",
+          "url": "https://cdn.discordapp.com/attachments/1386025098552672447/1386025421950161037/csrss.exe?ex=6a3421c3&is=6a32d043&hm=059f261f1a6f833f5a62ded09c7bac02f20c17e3ee47991120fbd82228310d7a&",
+          "fileName": "csrss.exe",
+          "fileSizeBytes": 7483840
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386025499813478491",
+      "type": "Default",
+      "timestamp": "2025-06-21T13:50:30.264-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "como el mc crasheo durante la ss y el staff vio que vos no lo cerraste no te puede banear",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386025555807309864",
+      "type": "Default",
+      "timestamp": "2025-06-21T13:50:43.614-03:00",
+      "timestampEdited": "2025-06-21T13:50:51.751-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "muy efectivo para bypasear cheats que dejan muchos rastros como slinky",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

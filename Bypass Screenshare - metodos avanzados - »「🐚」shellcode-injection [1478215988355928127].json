@@ -1,0 +1,496 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1478215988355928127",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「\uD83D\uDC1A」shellcode-injection",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:20.5750951-03:00",
+  "messages": [
+    {
+      "id": "1478217132369252443",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:27:08.303-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "este es un metodo sencillo colegas",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478217190405574676",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:27:22.14-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=1js51mXj25g",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bypass method #7 (shellcode)",
+          "url": "https://www.youtube.com/watch?v=1js51mXj25g",
+          "timestamp": null,
+          "description": "discord.gg/pTQJa2sngK\nDiscord username: uxw8",
+          "color": "#FF0000",
+          "author": {
+            "name": "Santoyo",
+            "url": "https://www.youtube.com/channel/UCDAYkmMv3dzHiiNZBi0fO7A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/CITgEcZXfYk9e5NPH2fz2Ulo_WdlgJl_q4mkkX6fU7c/https/i.ytimg.com/vi/1js51mXj25g/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/1js51mXj25g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/1js51mXj25g",
+            "canonicalUrl": "https://www.youtube.com/embed/1js51mXj25g",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478217197494075423",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:27:23.83-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/TheWover/donut",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - TheWover/donut: Generates x86, x64, or AMD64+x86 position-...",
+          "url": "https://github.com/TheWover/donut",
+          "timestamp": null,
+          "description": "Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters - TheWover/donut",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bQ2tKzqFNn91Xy-s3SXhPEg2Z4H-LZLku9tLHEIzqUI/https/repository-images.githubusercontent.com/178089499/e5543600-728c-11e9-8456-468fcc5abb51",
+            "canonicalUrl": "https://repository-images.githubusercontent.com/178089499/e5543600-728c-11e9-8456-468fcc5abb51",
+            "width": 661,
+            "height": 588
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478217251109736592",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:27:36.613-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# donut -i test.exe -a 2 -f 1 -o test.bin",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478217374434852864",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:28:06.016-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1478217374170743057",
+          "url": "https://cdn.discordapp.com/attachments/1478215988355928127/1478217374170743057/shell.txt?ex=6a340075&is=6a32aef5&hm=60ea2c1ba986574f0ed64ee0fd4ff823cb06096c5b1ea723eb231b3b851feca9&",
+          "fileName": "shell.txt",
+          "fileSizeBytes": 2548
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478223438752514259",
+      "type": "Default",
+      "timestamp": "2026-03-02T23:52:11.862-03:00",
+      "timestampEdited": "2026-03-03T14:39:12.286-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Combinar con #»「\uD83D\uDCBB」no-powershell-history no sean retrasados, tambien se puede usar con cualquier extensión una vez buildeado el archivo no tiene que ser .bin si ustedes quieren",
+      "author": {
+        "id": "1283314527252774981",
+        "name": "uxw8",
+        "discriminator": "0000",
+        "nickname": "!     Santoyo",
+        "color": "#C96E19",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1385696415212241056",
+            "name": "CO-CEO",
+            "color": "#C96E19",
+            "position": 29
+          },
+          {
+            "id": "1503827006473900062",
+            "name": "Buyer",
+            "color": "#F1C40F",
+            "position": 25
+          },
+          {
+            "id": "1433284975662469191",
+            "name": "Bypasser",
+            "color": "#313A88",
+            "position": 23
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478440941948764464",
+      "type": "Default",
+      "timestamp": "2026-03-03T14:16:28.665-03:00",
+      "timestampEdited": "2026-03-03T14:16:31.721-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "les explico la parte tecnica que a nadie le importa pero para que sepan que estan haciendo:\n\nun shellcode injection es una tecnica donde metes un codigo en forma de bytes dentro de la memoria de otro proceso para que lo ejecute como si fuera suyo",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478441019799503009",
+      "type": "Default",
+      "timestamp": "2026-03-03T14:16:47.226-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fin",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC12",
+            "code": "monkey",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f412.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "740308718192689323",
+              "name": "aaak_.",
+              "discriminator": "0000",
+              "nickname": "!L.",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/740308718192689323/351edf55189d7c99458bbd0bac972aff.png?size=512"
+            },
+            {
+              "id": "1139344966330617899",
+              "name": "znew__",
+              "discriminator": "0000",
+              "nickname": "zNew_",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1139344966330617899/2dd20bd03d2359f8f0e07b18c8e9aa20.png?size=512"
+            },
+            {
+              "id": "1301670282699735090",
+              "name": "handle.tsx",
+              "discriminator": "0000",
+              "nickname": "Roxii",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+            },
+            {
+              "id": "1325712533633630309",
+              "name": "streaky_",
+              "discriminator": "0000",
+              "nickname": "♱",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+            },
+            {
+              "id": "1349168204412620811",
+              "name": "smile_cvzz",
+              "discriminator": "0000",
+              "nickname": "smilestaar",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1349168204412620811/b738eb755fb694f1a427df48a6b9edb2.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 8
+}

@@ -1,0 +1,155 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1472864241857069279",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83C\uDF0A」alternate-data-stream",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:20.5221851-03:00",
+  "messages": [
+    {
+      "id": "1472865044650791077",
+      "type": "Default",
+      "timestamp": "2026-02-16T04:59:51.154-03:00",
+      "timestampEdited": "2026-02-16T14:36:55.594-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "un alternatedatastream consiste en ocultar un archivo ejecutable dentro de otro archivo, utilizando un ads de windows.\n\n para hacerlo necesitas un .exe y un archivo que se va a ejecutar, por ejemplo un .txt \n\n vas a abrir cmd como administrador y vas a la ruta de la carpeta en la cual tengas estos dos archivos mencionados y vas a poner lo siguiente:\n\ntype  cheat.extension > archivolegit.extension:cheat.extension\n\n\n despues para crear un enlace (solo para .exe) van a usar mklink\n\n random.extension archivo.txt:cheat.exe \n\ny a partir de ahi ya pueden eliminar el .exe cheat y solo dejar el limpio\n\n importante, no pueden eliminar el .txt ya que dejaria de funcionar\n\npara camuflarlo mejor les recomiendo usar un nombre como Zone.identifier ya q es un nombre bastante comun, si te frozean nada mas cambia la ruta del enlace y queda inutilizable\n\n para archivos .jar como Doomsday no necesitan crear el enlace, solo ejecutenlo con  Java -jar archivo.txt",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1134486884970659990",
+              "name": "cheatingmoment",
+              "discriminator": "0000",
+              "nickname": "sicasss",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1134486884970659990/b6c355292898e4f272b31e4a9179f86d.png?size=512"
+            },
+            {
+              "id": "1256908100380921878",
+              "name": "jwpxtrm",
+              "discriminator": "0000",
+              "nickname": "jwpXtrm",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1256908100380921878/1d0dc2e77b39b0c5bc1618b44ac2a2da.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD2B",
+            "code": "shushing_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f92b.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1256908100380921878",
+              "name": "jwpxtrm",
+              "discriminator": "0000",
+              "nickname": "jwpXtrm",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1256908100380921878/1d0dc2e77b39b0c5bc1618b44ac2a2da.png?size=512"
+            },
+            {
+              "id": "1463357818881966245",
+              "name": "trisingswithaker",
+              "discriminator": "0000",
+              "nickname": "trisings",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1463357818881966245/e199f1dd67c977a678d6766e086f3297.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481730034887692439",
+      "type": "Default",
+      "timestamp": "2026-03-12T16:06:09.53-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1481730034149621842",
+          "url": "https://cdn.discordapp.com/attachments/1472864241857069279/1481730034149621842/2026-03-12_04-09-10.mp4?ex=6a3441a1&is=6a32f021&hm=50da6e4ed3df1e3557d58a9e7db33c3b4a3eacfcaee845ef9493a32251f795d6&",
+          "fileName": "2026-03-12_04-09-10.mp4",
+          "fileSizeBytes": 5457711
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

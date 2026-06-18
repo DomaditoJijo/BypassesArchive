@@ -1,0 +1,70 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1480173258048536736",
+    "type": "GuildTextChat",
+    "categoryId": "1451789143733567578",
+    "category": "metodos blatant",
+    "name": "»「\uD83D\uDDC2️」explorer-crash",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:20:41.6579132-03:00",
+  "messages": [
+    {
+      "id": "1480175333809455225",
+      "type": "Default",
+      "timestamp": "2026-03-08T09:08:19.908-03:00",
+      "timestampEdited": "2026-03-08T09:08:34.422-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "se trata de abrir cmd y colocar start `explorer & start explorer & start explorer & ` muchisimas veces, haciendo que crashee.\n\nsi sientes Lags de la PC, es normal al final esta crasheando explorer.exe\n\nno podran sancionarte a no ser que encuentren la sobrecarga de start explorer en cmd, ya que es un crasheo, y banear por crash es false ban en todos los servers decentitos.\n\nel explorer terminara crasheando os lo prometo :3 ❤️ (Bypass en todos los servers basura)",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1480175333520179250",
+          "url": "https://cdn.discordapp.com/attachments/1480173258048536736/1480175333520179250/image.png?ex=6a348873&is=6a3336f3&hm=2987e4c698dd8c756f941cc319b7a035f027ef04a7c0b363ba572d45f457d3a5&",
+          "fileName": "image.png",
+          "fileSizeBytes": 22820
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "❤️",
+          "code": "heart",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 1
+}

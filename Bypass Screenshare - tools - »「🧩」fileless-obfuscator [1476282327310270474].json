@@ -1,0 +1,479 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1476282327310270474",
+    "type": "GuildTextChat",
+    "categoryId": "1479343192078811136",
+    "category": "tools",
+    "name": "»「\uD83E\uDDE9」fileless-obfuscator",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:22:23.6958727-03:00",
+  "messages": [
+    {
+      "id": "1476587090467885066",
+      "type": "Default",
+      "timestamp": "2026-02-26T11:29:56.029-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://powershellobfuscator.com/\n\naca van a poder obfuscar sus codigos fileless para que sean mas dificiles de detectar",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerShell Obfuscator | Free Online Obfuscation for PowerShell Code",
+          "url": "https://powershellobfuscator.com/",
+          "timestamp": null,
+          "description": "PowerShell Obfuscator: A web tool to make PowerShell scripts harder to analyze using diverse obfuscation techniques. Ideal for security and penetration testing.",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDED",
+            "code": "regional_indicator_h",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ed.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEE",
+            "code": "regional_indicator_i",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ee.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEF",
+            "code": "regional_indicator_j",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ef.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE9",
+            "code": "regional_indicator_d",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e9.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5",
+            "code": "regional_indicator_p",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f5.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFA",
+            "code": "regional_indicator_u",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fa.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF9",
+            "code": "regional_indicator_t",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f9.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE6",
+            "code": "regional_indicator_a",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e6.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1305312278094286889",
+              "name": "fugitivoo23",
+              "discriminator": "0000",
+              "nickname": "oza",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1305312278094286889/ceecdbec9353efd480cbb9c4c4b25243.png?size=512"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1403137639430750390",
+              "name": "9k5v",
+              "discriminator": "0000",
+              "nickname": "wylziz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1403137639430750390/03231a1a84a304189150599f537bf226.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1476593655354753077",
+      "type": "Default",
+      "timestamp": "2026-02-26T11:56:01.22-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me vuelven a borrar el canal les saco el rol a todos",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

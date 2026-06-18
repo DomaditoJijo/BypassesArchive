@@ -1,0 +1,327 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1497785700005838888",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83D\uDEAB」bypass-eventvwr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:34.3787967-03:00",
+  "messages": [
+    {
+      "id": "1497786037861220493",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:26:58.945-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "primeramente para este bypass necesitamos lo siguiente.",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497786078302834768",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:27:08.587-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1- usar la cabeza",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497786098749935769",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:27:13.462-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2- seguir los pasos",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497786444692062258",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:28:35.941-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Basicamente la tool de diff scannea, consolehost_history, script logging, eventvwr",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497787053071532085",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:31:00.99-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Necesitamos usar primariamente #»「\uD83E\uDDE9」fileless-obfuscator + #»「\uD83E\uDE9E」reflective-assembly-loading + #»「\uD83D\uDCBB」no-powershell-history  ( usar el metodo de powershell ise x86), una vez usemos eso estariamos evadiendo el 99% de los logs que deja un fileless basico, una vez hecho eso la tool de diff deberia retornar limpia, se los podrian encontrar dumpeando memoria o ram, o buscando el comando literalmente si usan un comando conocido en textinputhost, eso seria todo, recomiendo hacer todos los pasos sin saltarte ninguno si quieres asegurarte aprovechenlo antes que el fracasado de diff lo fixee y lo tenga q volver a buscar otra forma.",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497787194788548639",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:31:34.778-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/1482849501701214312/1496938772309475358/image.gif",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/1482849501701214312/1496938772309475358/image.gif",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1482849501701214312/1496938772309475358/image.gif?ex=6a3436df&is=6a32e55f&hm=1fc4e931174398d4bb69a3cec662fbb1c20c1cf9493e2705baf769f1096e1cac&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/1482849501701214312/1496938772309475358/image.gif?ex=6a3436df&is=6a32e55f&hm=1fc4e931174398d4bb69a3cec662fbb1c20c1cf9493e2705baf769f1096e1cac&",
+            "width": 1024,
+            "height": 745
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497788744265240817",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:37:44.202-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "`$settings = [Ref].Assembly.GetType(\"System.Management.Automation.Utils\").GetField(\"cachedGroupPolicySettings\", [System.Reflection.BindingFlags]::NonPublic -bor [System.Reflection.BindingFlags]::Static).GetValue($null)\n$settings[\"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\PowerShell\\ScriptBlockLogging\"] = @{}\n$settings[\"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\PowerShell\\ScriptBlockLogging\"].Add(\"EnableScriptBlockLogging\", \"0\" `",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497788984120705207",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:38:41.388-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "`[Ref].Assembly.GetType(\"System.Management.Automation.Utils\").GetField(\"cachedGroupPolicySettings\", [System.Reflection.BindingFlags]::NonPublic -bor [System.Reflection.BindingFlags]::Static).SetValue($null, (New-Object \"System.Collections.Concurrent.ConcurrentDictionary[System.String,System.Collections.Generic.Dictionary[System.String,System.Object]]\"))`",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1497789113263198228",
+      "type": "Default",
+      "timestamp": "2026-04-25T23:39:12.178-03:00",
+      "timestampEdited": "2026-04-25T23:39:20.972-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**# COMANDOS ADICIONALES**",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 9
+}

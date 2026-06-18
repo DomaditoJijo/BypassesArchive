@@ -1,0 +1,148 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1478090054323933265",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83D\uDD04」transacted-hollowing",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:25.6094728-03:00",
+  "messages": [
+    {
+      "id": "1481704742597169313",
+      "type": "Default",
+      "timestamp": "2026-03-12T14:25:39.378-03:00",
+      "timestampEdited": "2026-03-12T14:26:40.552-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/hasherezade/transacted_hollowing/releases/tag/1.0\n\notra tecnica de pe injection, basicamente ejecuta un codigo dentro de un proceso con las Transactional NTFS de windows",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Release 1.0 · hasherezade/transacted_hollowing",
+          "url": "https://github.com/hasherezade/transacted_hollowing/releases/tag/1.0",
+          "timestamp": null,
+          "description": "",
+          "color": "#1E2327",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1237092578420064288",
+              "name": "damnactualy",
+              "discriminator": "0000",
+              "nickname": "damnactualy",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "892579755809972304",
+              "name": "reck1373_.",
+              "discriminator": "0000",
+              "nickname": "! reck1373",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/892579755809972304/e93196fb22e1891db61920cdebad43c7.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481730301758541844",
+      "type": "Default",
+      "timestamp": "2026-03-12T16:07:13.157-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1481730301389574174",
+          "url": "https://cdn.discordapp.com/attachments/1478090054323933265/1481730301389574174/transacted_hollowing.png?ex=6a3441e1&is=6a32f061&hm=6ab848ce8a9d60739d5e3eee6dc22214b0ca296201cb516f2fdb32a7fa56a42a&",
+          "fileName": "transacted_hollowing.png",
+          "fileSizeBytes": 46386
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

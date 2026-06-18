@@ -1,0 +1,135 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1495279663952433212",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83D\uDCE6」module-overloader",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:17:20.8863459-03:00",
+  "messages": [
+    {
+      "id": "1495279966944755722",
+      "type": "Default",
+      "timestamp": "2026-04-19T01:28:45.078-03:00",
+      "timestampEdited": "2026-04-19T01:30:26.778-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/hasherezade/module_overloading/releases/tag/1.0\n\neste  seria como un especie de process hollowing pero solo para dlls\n\npara q funcione, el dll legit tiene que pesar un  poco mas que el cheat",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1495279966991159338",
+          "url": "https://cdn.discordapp.com/attachments/1495279663952433212/1495279966991159338/image.png?ex=6a341cbd&is=6a32cb3d&hm=8097eb12757ddeb289f89131e52dc25105e69be48fbafd1e8767f2320d537a23&",
+          "fileName": "image.png",
+          "fileSizeBytes": 48671
+        },
+        {
+          "id": "1495279967230230690",
+          "url": "https://cdn.discordapp.com/attachments/1495279663952433212/1495279967230230690/image.png?ex=6a341cbd&is=6a32cb3d&hm=3b5772cbd06dc051741c5cd6e1c67c166a6a05525d817d44ef044489bb0b7cb1&",
+          "fileName": "image.png",
+          "fileSizeBytes": 5692
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Release 1.0 · hasherezade/module_overloading",
+          "url": "https://github.com/hasherezade/module_overloading/releases/tag/1.0",
+          "timestamp": null,
+          "description": "The injector:\n\nmodule_overloader32.exe - 32 bit build\nmodule_overloader64.exe - 64 bit build\n\nDemo payloads:\n32 bit:\n\ndemo32.bin\ndemo.bin\n\n64 bit:\n\ndemo64.bin",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YY9j-GpR60LXNxWKZY-wViwwxOzENo90Xry3HALvrYs/https/opengraph.githubassets.com/1ffccdc84bd2d02debef7ae26166c9940204807602625e4973c2e90310ffad29/hasherezade/module_overloading/releases/tag/1.0",
+            "canonicalUrl": "https://opengraph.githubassets.com/1ffccdc84bd2d02debef7ae26166c9940204807602625e4973c2e90310ffad29/hasherezade/module_overloading/releases/tag/1.0",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495844178306007180",
+      "type": "Default",
+      "timestamp": "2026-04-20T14:50:43.549-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "creditos a @\uD804\uDC6F ੭ por pasarlo",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1345619454414815342",
+          "name": "_2_0_1_0_",
+          "discriminator": "0000",
+          "nickname": "\uD804\uDC6F ੭",
+          "color": "#2C6D2C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1485053790242476102",
+              "name": "Verified",
+              "color": "#2C6D2C",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1345619454414815342/4ff879dc76e027e6e68d507afb675ebc.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

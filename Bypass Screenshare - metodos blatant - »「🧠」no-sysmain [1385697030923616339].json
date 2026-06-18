@@ -1,0 +1,55 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1385697030923616339",
+    "type": "GuildTextChat",
+    "categoryId": "1451789143733567578",
+    "category": "metodos blatant",
+    "name": "»「\uD83E\uDDE0」no-sysmain",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:21:28.9796942-03:00",
+  "messages": [
+    {
+      "id": "1452076843200020491",
+      "type": "Default",
+      "timestamp": "2025-12-20T20:14:57.702-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Con este método podremos evitar que se generen registros en la carpeta **Prefetch sin necesidad de detener el servicio SysMain**.\n\nNota: Para aplicar este método es necesario contar con System Informer.\n\nProcedimiento:\n\nAbrimos **System Informer**.\n\nBuscamos el proceso **“SysMain”**.\n\nHacemos clic derecho sobre el proceso y seleccionamos Propiedades.\n\nAccedemos a la sección **Threads**.\n\nDentro de **Threads**, localizamos un hilo asociado a `sechost.dll` que se encuentre en ejecución.\n\nDetenemos dicho hilo.\n\nCon esto se evita la creación de registros en Prefetch sin detener completamente el servicio SysMain.",
+      "author": {
+        "id": "1134486884970659990",
+        "name": "cheatingmoment",
+        "discriminator": "0000",
+        "nickname": "sicasss",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1134486884970659990/b6c355292898e4f272b31e4a9179f86d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1452076842772336780",
+          "url": "https://cdn.discordapp.com/attachments/1385697030923616339/1452076842772336780/image.png?ex=6a347bf1&is=6a332a71&hm=1f0d85eb64ebc0fab1f434dbcf71a505dd844726ac9beae7818c643d184320e1&",
+          "fileName": "image.png",
+          "fileSizeBytes": 1600477
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

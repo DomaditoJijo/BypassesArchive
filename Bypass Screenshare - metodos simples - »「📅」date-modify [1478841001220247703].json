@@ -1,0 +1,68 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1478841001220247703",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDCC5」date-modify",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:19:21.6591899-03:00",
+  "messages": [
+    {
+      "id": "1478846336152506458",
+      "type": "Default",
+      "timestamp": "2026-03-04T17:07:22.175-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "abren powershell, ponen el comando:\n\n(Get-Item \"C:\\Users\\Ccsgo\\Documents\\cheat.exe\").LastWriteTime = \"12/03/2026 14:30\"\n\nindican la hora que quieran y la ruta de el archivo\n\n\n(mayormente esto te va a servir para .pfs, en journal sale la fecha de modificacion normal)",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1478846334554341396",
+          "url": "https://cdn.discordapp.com/attachments/1478841001220247703/1478846334554341396/adsas6.mp4?ex=6a344ff9&is=6a32fe79&hm=e956ec2e0878699bbd9721006302941672747b90ab7e7677b262f4d10ec8e5c1&",
+          "fileName": "adsas6.mp4",
+          "fileSizeBytes": 7922169
+        },
+        {
+          "id": "1478846335657705563",
+          "url": "https://cdn.discordapp.com/attachments/1478841001220247703/1478846335657705563/image.png?ex=6a344ffa&is=6a32fe7a&hm=58547e6ed802c58dda4dd5d4bd66f42c25a5eba1f866a0488cbf04faeeab9feb&",
+          "fileName": "image.png",
+          "fileSizeBytes": 27834
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

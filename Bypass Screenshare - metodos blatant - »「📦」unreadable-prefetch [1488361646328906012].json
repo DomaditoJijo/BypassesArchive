@@ -1,0 +1,178 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1488361646328906012",
+    "type": "GuildTextChat",
+    "categoryId": "1451789143733567578",
+    "category": "metodos blatant",
+    "name": "»「\uD83D\uDCE6」unreadable-prefetch",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:20:30.7509951-03:00",
+  "messages": [
+    {
+      "id": "1488361998944043049",
+      "type": "Default",
+      "timestamp": "2026-03-30T23:19:12.977-03:00",
+      "timestampEdited": "2026-03-30T23:22:40.778-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "metodo muy blatant\n\nle sacan los permisos a la carpeta prefetch y despues se los vuelven a poner\n\nno sale como deleteado ni nada, van a tener todo su prefetch con el contenido de los pfs dentro, pero no se va a poder leer con las tools como winprefetch, prefetchview, etc",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1488361998298120384",
+          "url": "https://cdn.discordapp.com/attachments/1488361646328906012/1488361998298120384/image.png?ex=6a33fe60&is=6a32ace0&hm=ff9ee035d3b8609ba5f1f3249f59e215d93577b53fbdc588c4487598c761105a&",
+          "fileName": "image.png",
+          "fileSizeBytes": 22604
+        },
+        {
+          "id": "1488361998650576966",
+          "url": "https://cdn.discordapp.com/attachments/1488361646328906012/1488361998650576966/image.png?ex=6a33fe60&is=6a32ace0&hm=38aab27b5e842c5af62e7631eab0afd7f540441d003bf19ce45d70a48ad474f8&",
+          "fileName": "image.png",
+          "fileSizeBytes": 79112
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1488362053763727412",
+      "type": "Default",
+      "timestamp": "2026-03-30T23:19:26.047-03:00",
+      "timestampEdited": "2026-03-30T23:23:22.463-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sale todo en blanco basicamente pero los .pf siguen pesando lo  mismo (las ss tools no detectan esto)\n\n\npueden en el momento que bloquean la carpeta ejecutar su cheat y no lo va a scanear",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1488362221737349302",
+      "type": "Default",
+      "timestamp": "2026-03-30T23:20:06.095-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1488362221644808323",
+          "url": "https://cdn.discordapp.com/attachments/1488361646328906012/1488362221644808323/image.png?ex=6a33fe96&is=6a32ad16&hm=2fabb6733ec6bc12e552ae2a1af2a17ba9a72ebbcc5068b01242d3e1f81bb5ad&",
+          "fileName": "image.png",
+          "fileSizeBytes": 41136
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1488364159962841199",
+      "type": "Default",
+      "timestamp": "2026-03-30T23:27:48.204-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1488364159522570391",
+          "url": "https://cdn.discordapp.com/attachments/1488361646328906012/1488364159522570391/dd.mp4?ex=6a340064&is=6a32aee4&hm=810567929c454b4e5e8e1734886db4c79823965d8912c7a80a1472511b41cc87&",
+          "fileName": "dd.mp4",
+          "fileSizeBytes": 3522802
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

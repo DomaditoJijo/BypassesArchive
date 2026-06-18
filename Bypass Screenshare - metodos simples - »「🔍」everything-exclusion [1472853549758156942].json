@@ -1,0 +1,107 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1472853549758156942",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDD0D」everything-exclusion",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:19:25.5201774-03:00",
+  "messages": [
+    {
+      "id": "1472854076160081921",
+      "type": "Default",
+      "timestamp": "2026-02-16T04:16:16.062-03:00",
+      "timestampEdited": "2026-02-16T04:16:55.657-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esto es para ocultar carpetas en everything, de forma que si lo buscan y no desactivan la siguiente opcion es imposible que aparezca en la tool\n\nse van a ir a Herramientas, opciones, exclusion y ahi le dan a añadir carpeta y eligen la que quieran",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1472854076243841024",
+          "url": "https://cdn.discordapp.com/attachments/1472853549758156942/1472854076243841024/image.png?ex=6a344400&is=6a32f280&hm=5556bdcbfc679d9c72ae0eba1d5c987a4e39c99cb2cfcbf818c9a874dcf77c49&",
+          "fileName": "image.png",
+          "fileSizeBytes": 34902
+        },
+        {
+          "id": "1472854076768391209",
+          "url": "https://cdn.discordapp.com/attachments/1472853549758156942/1472854076768391209/image.png?ex=6a344400&is=6a32f280&hm=54b5f500377586406592845170cceec68f6b45dfdbd2b94c6f2ce308ea3eea16&",
+          "fileName": "image.png",
+          "fileSizeBytes": 21442
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1484252387085647913",
+      "type": "Default",
+      "timestamp": "2026-03-19T15:09:05.157-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "otra opcion es herramientas, opciones y van a NTFS y quitan el añadir database el disco NTFS que quieran excluir",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1484252387001503934",
+          "url": "https://cdn.discordapp.com/attachments/1472853549758156942/1484252387001503934/image.png?ex=6a343441&is=6a32e2c1&hm=0cb75dd4a112fb9335a9b85129fef316e06374494b75f449b8071dfbbed86802&",
+          "fileName": "image.png",
+          "fileSizeBytes": 54316
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

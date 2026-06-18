@@ -1,0 +1,328 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1386074851705356429",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83E\uDDF9」clear-alts",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:15.4974291-03:00",
+  "messages": [
+    {
+      "id": "1386074879677435994",
+      "type": "Default",
+      "timestamp": "2025-06-21T17:06:43.341-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "732724718209204224",
+        "name": "pate8079",
+        "discriminator": "0000",
+        "nickname": "topaz",
+        "color": "#020202",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1505782196869533757",
+            "name": "topaz",
+            "color": "#020202",
+            "position": 34
+          },
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1452342026002759801",
+            "name": "papu",
+            "color": "#9E6BFF",
+            "position": 31
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          },
+          {
+            "id": "1433743585190088735",
+            "name": "Screensharer",
+            "color": "#D4843D",
+            "position": 26
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [
+        {
+          "id": "1386074879312396308",
+          "url": "https://cdn.discordapp.com/attachments/1386074851705356429/1386074879312396308/3dxs.bat?ex=6a344fd3&is=6a32fe53&hm=9942822f1caf9119e91c71d23dd554fdcd82a1b5b842299b5fdbb02a28571f24&",
+          "fileName": "3dxs.bat",
+          "fileSizeBytes": 473
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386074992151892051",
+      "type": "Default",
+      "timestamp": "2025-06-21T17:07:10.157-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Este bat borra todos los rastros de alts de mc,  haciendo que con la tool espouken no puedan detectar alts o ningun otro rastro, por si estan haciendo evading",
+      "author": {
+        "id": "732724718209204224",
+        "name": "pate8079",
+        "discriminator": "0000",
+        "nickname": "topaz",
+        "color": "#020202",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1505782196869533757",
+            "name": "topaz",
+            "color": "#020202",
+            "position": 34
+          },
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1452342026002759801",
+            "name": "papu",
+            "color": "#9E6BFF",
+            "position": 31
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          },
+          {
+            "id": "1433743585190088735",
+            "name": "Screensharer",
+            "color": "#D4843D",
+            "position": 26
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386075097596559552",
+      "type": "Default",
+      "timestamp": "2025-06-21T17:07:35.297-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "( Ejecutar con administrador y el mc cerrado )",
+      "author": {
+        "id": "732724718209204224",
+        "name": "pate8079",
+        "discriminator": "0000",
+        "nickname": "topaz",
+        "color": "#020202",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1505782196869533757",
+            "name": "topaz",
+            "color": "#020202",
+            "position": 34
+          },
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1452342026002759801",
+            "name": "papu",
+            "color": "#9E6BFF",
+            "position": 31
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          },
+          {
+            "id": "1433743585190088735",
+            "name": "Screensharer",
+            "color": "#D4843D",
+            "position": 26
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 11,
+          "users": [
+            {
+              "id": "209475012501962752",
+              "name": "randyglock1",
+              "discriminator": "0000",
+              "nickname": "Randyglock",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/209475012501962752/a66758365d328cdf4d30339e5ae1122e.png?size=512"
+            },
+            {
+              "id": "485963085224607744",
+              "name": "_sxfie",
+              "discriminator": "0000",
+              "nickname": "SofieLul",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/485963085224607744/dea61e2af191c229bc03c27ac31c523c.png?size=512"
+            },
+            {
+              "id": "1121703722263789590",
+              "name": "dxopski",
+              "discriminator": "0000",
+              "nickname": "www",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1121703722263789590/68a73713a4111d79966bd4471721a64a.png?size=512"
+            },
+            {
+              "id": "1126370663553302559",
+              "name": "ccsgo.",
+              "discriminator": "0000",
+              "nickname": "Ccsgo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+            },
+            {
+              "id": "1155135171826303126",
+              "name": "mmodplus_",
+              "discriminator": "0000",
+              "nickname": "modplus",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1155135171826303126/c28c88f014d244a17ad85e671363c64c.png?size=512"
+            },
+            {
+              "id": "1160481800334876702",
+              "name": "kcetre",
+              "discriminator": "0000",
+              "nickname": "! Bugs Yara Yara Ya",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1160481800334876702/61f9b153298fb22433a81399f2758f14.png?size=512"
+            },
+            {
+              "id": "1301670282699735090",
+              "name": "handle.tsx",
+              "discriminator": "0000",
+              "nickname": "Roxii",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+            },
+            {
+              "id": "1338146755241447484",
+              "name": "shfjfnd",
+              "discriminator": "0000",
+              "nickname": "Tuka",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1338146755241447484/4649221d7daac7877ade6e7d16cd4947.png?size=512"
+            },
+            {
+              "id": "1353798173336010845",
+              "name": "deleted_user_50369a81e935",
+              "discriminator": "0000",
+              "nickname": "deleted_user_50369a81e935",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+            },
+            {
+              "id": "1367301035739316345",
+              "name": "db___66",
+              "discriminator": "0000",
+              "nickname": "db___66",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1402712520598356008",
+              "name": "sheptie",
+              "discriminator": "0000",
+              "nickname": "macai",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1402712520598356008/486617c64aaf7b964d8380b86597f0ef.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

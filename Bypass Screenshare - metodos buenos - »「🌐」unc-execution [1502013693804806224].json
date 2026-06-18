@@ -1,0 +1,125 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1502013693804806224",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83C\uDF10」unc-execution",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:11.8807183-03:00",
+  "messages": [
+    {
+      "id": "1503919098969460876",
+      "type": "Default",
+      "timestamp": "2026-05-12T21:37:34.66-03:00",
+      "timestampEdited": "2026-05-12T23:00:37.283-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Básicamente este método ejecuta el cheat desde una carpeta de network para intentar evitar que deje rastros normales en Prefetch y BAM.\n\n El único problema es que cuando el archivo se copia por primera vez a la carpeta, sí deja logs en el Journal.\nDespués de eso, ya casi no vuelve a dejar rastros mientras uses la misma carpeta.\n\n Por eso se recomienda:\n\n- Borrar el Journal.\n- Reiniciar la PC después de usarlo.\n\n Importante:\nNo se olviden del nombre de la carpeta network que usaron, porque si vuelven a usar otra carpeta distinta puede volver a generar logs.\n Funciona con prácticamente cualquier \".exe\".\n\nTodavía está en beta, así que puede tener algunos errores, pero normalmente son fáciles de arreglar by @!     Santoyo https://youtu.be/Zrqt0cKm1dk",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1503919099166851214",
+          "url": "https://cdn.discordapp.com/attachments/1502013693804806224/1503919099166851214/netv1.txt?ex=6a33e68e&is=6a32950e&hm=06a6aa6af879c61290c266abfbcd485ff2d1f253a1480b38c0dc16631c474307&",
+          "fileName": "netv1.txt",
+          "fileSizeBytes": 826
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Bypass method #9",
+          "url": "https://www.youtube.com/watch?v=Zrqt0cKm1dk",
+          "timestamp": null,
+          "description": "discord= uxw8",
+          "color": "#FF0000",
+          "author": {
+            "name": "Santoyo",
+            "url": "https://www.youtube.com/channel/UCDAYkmMv3dzHiiNZBi0fO7A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GnOK_W2bfkXD5_nyPtSm5XAc9zVt19B686K-O-nckV0/https/i.ytimg.com/vi/Zrqt0cKm1dk/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/Zrqt0cKm1dk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/Zrqt0cKm1dk",
+            "canonicalUrl": "https://www.youtube.com/embed/Zrqt0cKm1dk",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1283314527252774981",
+          "name": "uxw8",
+          "discriminator": "0000",
+          "nickname": "!     Santoyo",
+          "color": "#C96E19",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1385696415212241056",
+              "name": "CO-CEO",
+              "color": "#C96E19",
+              "position": 29
+            },
+            {
+              "id": "1503827006473900062",
+              "name": "Buyer",
+              "color": "#F1C40F",
+              "position": 25
+            },
+            {
+              "id": "1433284975662469191",
+              "name": "Bypasser",
+              "color": "#313A88",
+              "position": 23
+            },
+            {
+              "id": "1485053790242476102",
+              "name": "Verified",
+              "color": "#2C6D2C",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1283314527252774981/1fe9359f6670cce5864200cab64eb9d7.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

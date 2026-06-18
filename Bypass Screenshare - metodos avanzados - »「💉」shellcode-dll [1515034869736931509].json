@@ -1,0 +1,82 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1515034869736931509",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「\uD83D\uDC89」shellcode-dll",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:15.7495697-03:00",
+  "messages": [
+    {
+      "id": "1515034949919440996",
+      "type": "Default",
+      "timestamp": "2026-06-12T13:48:00.049-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1515034563380772974",
+        "channelId": "1478215988355928127",
+        "guildId": "1385680731212218449"
+      },
+      "forwardedMessage": {
+        "timestamp": "2026-06-12T13:46:27.891-03:00",
+        "timestampEdited": "2026-06-12T13:46:57.393-03:00",
+        "content": "open system informer for administrator privileges and inject in any process",
+        "attachments": [
+          {
+            "id": "1515034949298684114",
+            "url": "https://cdn.discordapp.com/attachments/1515034869736931509/1515034949298684114/image.png?ex=6a34213f&is=6a32cfbf&hm=5d53ee59e4a608c61f1d5eedd8ece000779b59f35a808b55e0af836f60fd75a6&",
+            "fileName": "image.png",
+            "fileSizeBytes": 56287
+          },
+          {
+            "id": "1515034949571448894",
+            "url": "https://cdn.discordapp.com/attachments/1515034869736931509/1515034949571448894/hibro.dll?ex=6a34213f&is=6a32cfbf&hm=08cd215839d6ece0d90b38a9f471c6846b2f095f55e5c6852950243f3c7dba89&",
+            "fileName": "hibro.dll",
+            "fileSizeBytes": 1639936
+          }
+        ],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

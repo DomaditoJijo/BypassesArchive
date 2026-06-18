@@ -1,0 +1,195 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1469136079084060703",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「⏱️」change-time-of-bam-entries",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:17:29.8843426-03:00",
+  "messages": [
+    {
+      "id": "1469136985334480987",
+      "type": "Default",
+      "timestamp": "2026-02-05T22:05:52.549-03:00",
+      "timestampEdited": "2026-02-05T22:06:08.495-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esta tool les va a dar una lista con todos los logs de su BAM y van a estar enumerados, simplemente elegis el numero que te aparezca en el log que queres cambiar y pones la hora/minutos/segundos\n\ncreditos: @diff",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1469136985464635442",
+          "url": "https://cdn.discordapp.com/attachments/1469136079084060703/1469136985464635442/BAMParser.exe?ex=6a33ed30&is=6a329bb0&hm=12189de79ddd325ce77b051359dde3e09d53ddcff8411fff7e3577616b1050da&",
+          "fileName": "BAMParser.exe",
+          "fileSizeBytes": 53760
+        },
+        {
+          "id": "1469136986056167719",
+          "url": "https://cdn.discordapp.com/attachments/1469136079084060703/1469136986056167719/image.png?ex=6a33ed30&is=6a329bb0&hm=075f7a35605fdf323b10b7f08967499c909f5dd1627ba78de17b6ecd1ab738b8&",
+          "fileName": "image.png",
+          "fileSizeBytes": 20510
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC12",
+            "code": "monkey",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f412.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "1301670282699735090",
+              "name": "handle.tsx",
+              "discriminator": "0000",
+              "nickname": "Roxii",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+            },
+            {
+              "id": "1322533714277961791",
+              "name": "solary67",
+              "discriminator": "0000",
+              "nickname": "Slinky",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+            },
+            {
+              "id": "1325712533633630309",
+              "name": "streaky_",
+              "discriminator": "0000",
+              "nickname": "♱",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+            },
+            {
+              "id": "1349168204412620811",
+              "name": "smile_cvzz",
+              "discriminator": "0000",
+              "nickname": "smilestaar",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1349168204412620811/b738eb755fb694f1a427df48a6b9edb2.png?size=512"
+            },
+            {
+              "id": "1467713714852593684",
+              "name": "deleted_user_6ac44ef90e08",
+              "discriminator": "0000",
+              "nickname": "deleted_user_6ac44ef90e08",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC1F",
+            "code": "fish",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f41f.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1301670282699735090",
+              "name": "handle.tsx",
+              "discriminator": "0000",
+              "nickname": "Roxii",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+            },
+            {
+              "id": "1338146755241447484",
+              "name": "shfjfnd",
+              "discriminator": "0000",
+              "nickname": "Tuka",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1338146755241447484/4649221d7daac7877ade6e7d16cd4947.png?size=512"
+            },
+            {
+              "id": "1467713714852593684",
+              "name": "deleted_user_6ac44ef90e08",
+              "discriminator": "0000",
+              "nickname": "deleted_user_6ac44ef90e08",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1029486936676630605",
+          "name": "shiya.py",
+          "discriminator": "0000",
+          "nickname": "diff",
+          "color": "#AD1439",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1466788496831283425",
+              "name": "me gusta la verga",
+              "color": "#AD1439",
+              "position": 16
+            },
+            {
+              "id": "1476228867621523630",
+              "name": "femboy",
+              "color": "#612BB8",
+              "position": 14
+            },
+            {
+              "id": "1485053790242476102",
+              "name": "Verified",
+              "color": "#2C6D2C",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1029486936676630605/ff7530f17b4ef3f4d879a674c5f6eb0b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

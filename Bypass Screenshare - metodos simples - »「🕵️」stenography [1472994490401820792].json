@@ -1,0 +1,62 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1472994490401820792",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDD75️」stenography",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:19:23.7557117-03:00",
+  "messages": [
+    {
+      "id": "1472996893197074624",
+      "type": "Default",
+      "timestamp": "2026-02-16T13:43:46.297-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esto sirve para hacer importar el codigo de un ejecutable en un png \n\ntenes que abrir un cmd en la carpeta y contener los siguientes archivos: 2 imagenes y el ejecutable\n\ndespues de eso vas a escribir:\n\ncopy /b [Archivo donde se propone esconder] + [Archivo el cual se esconderá] [Nuevo nombre de la imagen]\n\nejemplo: copy /b imagen.png autoclicker.exe imagen2.png\n\ncomo pueden ver en la imagen tiene un peso de 5mb, o sea que se importo correctamente\n\ncuando quieran ejecutarlo simplemente le hacen click derecho y le dan a abrir con winrar\n\nrecomiendo hacer esto con un #»「\uD83D\uDD01」replace-basic",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1472996893377167381",
+          "url": "https://cdn.discordapp.com/attachments/1472994490401820792/1472996893377167381/image.png?ex=6a342042&is=6a32cec2&hm=710843b0a7e1f831996952aa4ecf67a2294480f906111a36524feed3d10ac9d5&",
+          "fileName": "image.png",
+          "fileSizeBytes": 32800
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

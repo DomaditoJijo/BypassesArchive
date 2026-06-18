@@ -1,0 +1,55 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1472852560519106622",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDD01」replace-basic",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:19:28.022714-03:00",
+  "messages": [
+    {
+      "id": "1472853063432671417",
+      "type": "Default",
+      "timestamp": "2026-02-16T04:12:14.609-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "les doy un ejemplo\n\nejecutan Autoclicker.exe en la carpeta Descargas\n\nse crea el log en bam, prefetch, etc de que ejecutamos el exe  desde esa ruta\n\nmoves autoclicker.exe a otra carpeta\n\npones un .exe con el mismo nombre en la carpeta Descargas\n\ny al ver el log van a querer abrir el exe de la ruta y van a ver que es un archivo legit\n\n(recomiendo hacer esto con procesos de windows que al buscar en everything salgan varios .exe)",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

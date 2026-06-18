@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bypass Screenshare - Minecraft</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #0f0f0f; color: #ddd; padding: 20px; }
+    h1 { color: #00ff00; text-align: center; }
+    h2 { color: #00ccff; border-bottom: 2px solid #00ccff; padding-bottom: 8px; }
+    ul { list-style: none; padding: 0; }
+    li { margin: 8px 0; padding: 10px; background: #1f1f1f; border-radius: 8px; }
+    a { color: #00ffaa; text-decoration: none; }
+    a:hover { color: #ffff00; }
+    .buenos { border-left: 5px solid #00ff00; }
+    .medios { border-left: 5px solid #ffaa00; }
+    .simples { border-left: 5px solid #00aaff; }
+    .avanzados { border-left: 5px solid #cc00ff; }
+    .blatant { border-left: 5px solid #ff0000; }
+  </style>
+</head>
+<body>
+  <h1>📁 Bypass Screenshare - Minecraft (SS Manual)</h1>
+  <p style="text-align:center;">Exportado el 17/06/2026</p>
+
+  <h2>✅ Métodos Buenos</h2>
+  <ul id="buenos"></ul>
+
+  <h2>🟠 Métodos Medios</h2>
+  <ul id="medios"></ul>
+
+  <h2>🔵 Métodos Simples</h2>
+  <ul id="simples"></ul>
+
+  <h2>🔮 Métodos Avanzados</h2>
+  <ul id="avanzados"></ul>
+
+  <h2>🔴 Métodos Blatant</h2>
+  <ul id="blatant"></ul>
+
+  <script>
+    const files = [
+      // Aquí se agregarán automáticamente los archivos
+    ];
+
+    function addFiles() {
+      const links = document.querySelectorAll('a');
+      // Esto carga todos los JSON de la carpeta (funciona en GitHub Pages)
+      fetch('.')
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(html, 'text/html');
+          const links = doc.querySelectorAll('a');
+          
+          links.forEach(link => {
+            const name = link.textContent.trim();
+            if (name.endsWith('.json')) {
+              const li = document.createElement('li');
+              li.innerHTML = `<a href="${name}" target="_blank">${name}</a>`;
+              
+              if (name.includes("buenos")) document.getElementById('buenos').appendChild(li);
+              else if (name.includes("medios")) document.getElementById('medios').appendChild(li);
+              else if (name.includes("simples")) document.getElementById('simples').appendChild(li);
+              else if (name.includes("avanzados")) document.getElementById('avanzados').appendChild(li);
+              else if (name.includes("blatant")) document.getElementById('blatant').appendChild(li);
+            }
+          });
+        });
+    }
+    addFiles();
+  </script>
+</body>
+</html>

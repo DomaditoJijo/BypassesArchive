@@ -1,0 +1,100 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1490497873098440724",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83D\uDCDC」eventvwr-powershell-history",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:17:23.1533683-03:00",
+  "messages": [
+    {
+      "id": "1490498745903747083",
+      "type": "Default",
+      "timestamp": "2026-04-05T20:49:53.151-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bueno, algunos comandos de cmd/powershell, generalmente fileless, salen en eventvwr powershell history\n\npara desactivar este log vamos a abrir eventvwr y vamos a ir a Registros de aplicaciones y servicios, microsoft, windows\n\ndespues vamos a bajar hasta encontrar Operational, le damos click derecho y le damos a deshabilitar registros\n\nte van a quedar los logs de tus comandos viejos pero todos los que ejecutes ahora no van a aparecer",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1490498745463214110",
+          "url": "https://cdn.discordapp.com/attachments/1490497873098440724/1490498745463214110/image.png?ex=6a348421&is=6a3332a1&hm=4e41616a4ed73191acb63c5f700680a9100080ac5a80d41d5c764c5d916a978f&",
+          "fileName": "image.png",
+          "fileSizeBytes": 80656
+        },
+        {
+          "id": "1490498745886965793",
+          "url": "https://cdn.discordapp.com/attachments/1490497873098440724/1490498745886965793/image.png?ex=6a348421&is=6a3332a1&hm=0ef124038f1256871cdbd39631bfc03e8db853fa5bf8d1d0cf62615771b3ba84&",
+          "fileName": "image.png",
+          "fileSizeBytes": 55662
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1490498780502691912",
+      "type": "Default",
+      "timestamp": "2026-04-05T20:50:01.4-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "baipai by diff",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

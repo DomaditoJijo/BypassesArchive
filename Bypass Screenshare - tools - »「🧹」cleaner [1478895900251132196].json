@@ -1,0 +1,151 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1478895900251132196",
+    "type": "GuildTextChat",
+    "categoryId": "1479343192078811136",
+    "category": "tools",
+    "name": "»「\uD83E\uDDF9」cleaner",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:21:36.4606846-03:00",
+  "messages": [
+    {
+      "id": "1478896032262787163",
+      "type": "Default",
+      "timestamp": "2026-03-04T20:24:50.651-03:00",
+      "timestampEdited": "2026-03-04T20:39:41.813-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1322533714277961791",
+        "name": "solary67",
+        "discriminator": "0000",
+        "nickname": "Slinky",
+        "color": "#FF0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1478896032426496202",
+          "url": "https://cdn.discordapp.com/attachments/1478895900251132196/1478896032426496202/image.png?ex=6a347e42&is=6a332cc2&hm=885e2ae323cd7cc9c20bfcea60984eae7a477f0c3a9f5e6e879ae75997e0bbd0&",
+          "fileName": "image.png",
+          "fileSizeBytes": 38166
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478896102374641735",
+      "type": "Default",
+      "timestamp": "2026-03-04T20:25:07.367-03:00",
+      "timestampEdited": "2026-03-08T14:35:44.849-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No pongas cosas como csrss o te rompes el pc solito (No me hago responsable).",
+      "author": {
+        "id": "1322533714277961791",
+        "name": "solary67",
+        "discriminator": "0000",
+        "nickname": "Slinky",
+        "color": "#FF0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478900210452140165",
+      "type": "Default",
+      "timestamp": "2026-03-04T20:41:26.809-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1322533714277961791",
+        "name": "solary67",
+        "discriminator": "0000",
+        "nickname": "Slinky",
+        "color": "#FF0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1478900210179641364",
+          "url": "https://cdn.discordapp.com/attachments/1478895900251132196/1478900210179641364/Cleaner.exe?ex=6a348226&is=6a3330a6&hm=7243a4e8c3fa977494cc1c1465af8d513d5fa26263db38ccc4cf078143d214ae&",
+          "fileName": "Cleaner.exe",
+          "fileSizeBytes": 14268416
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

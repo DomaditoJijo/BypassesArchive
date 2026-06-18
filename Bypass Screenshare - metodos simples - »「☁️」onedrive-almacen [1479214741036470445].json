@@ -1,0 +1,68 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1479214741036470445",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「☁️」onedrive-almacen",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:19:19.9571242-03:00",
+  "messages": [
+    {
+      "id": "1479215506446876733",
+      "type": "Default",
+      "timestamp": "2026-03-05T17:34:19.232-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "con onedrive, tendras un almacen personal, puedes bloquearlo y hacer que pida verificacion de dueño de la cuenta, aparte de que eliminaciones y reemplazos realizados en esta sección no aparecerán en el Journal, es simple, solo añades tus cheats ahi y listo, mi recomendacion es meter .dlls\n\nnecesitas tener onedrive para esto jaja salu2",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1479215505775526110",
+          "url": "https://cdn.discordapp.com/attachments/1479214741036470445/1479215505775526110/image.png?ex=6a34564b&is=6a3304cb&hm=d0f747d41512a6f1a0b15fbb77df2146c8c03cba69fd84d35666013f066af554&",
+          "fileName": "image.png",
+          "fileSizeBytes": 38716
+        },
+        {
+          "id": "1479215506098491534",
+          "url": "https://cdn.discordapp.com/attachments/1479214741036470445/1479215506098491534/image.png?ex=6a34564b&is=6a3304cb&hm=3a7c9931abf1c9d6ca5b2f8183a5702922b9687f97ade95a45034a6333275954&",
+          "fileName": "image.png",
+          "fileSizeBytes": 19817
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

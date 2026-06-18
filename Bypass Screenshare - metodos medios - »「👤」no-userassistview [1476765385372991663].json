@@ -1,0 +1,62 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1476765385372991663",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83D\uDC64」no-userassistview",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:17:33.0184423-03:00",
+  "messages": [
+    {
+      "id": "1476765724859961346",
+      "type": "Default",
+      "timestamp": "2026-02-26T23:19:45.787-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esto les va a servidor para bypasear la tool nueva de diff y ademas no es baneable en ningun servidor, abren la config de windows, van a \n\nPrivacidad -> General y desactivan esta opcion \n\ny ya no les va a scanear nada",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1476765724935721172",
+          "url": "https://cdn.discordapp.com/attachments/1476765385372991663/1476765724935721172/image.png?ex=6a33fe81&is=6a32ad01&hm=494e00e9797f218f2defea2208f53f60864cc8bd6e6f7f35daf506dcd0c5b5df&",
+          "fileName": "image.png",
+          "fileSizeBytes": 3852
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

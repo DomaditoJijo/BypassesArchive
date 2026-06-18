@@ -1,0 +1,94 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1482716948289556481",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDD24」unicode",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:35.3272684-03:00",
+  "messages": [
+    {
+      "id": "1482717769299529851",
+      "type": "Default",
+      "timestamp": "2026-03-15T09:31:03.765-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No es un bypass en si, es como un refuerzo, porque al hacer tu cheat unicode es mas dificil de ver, lo mas recomendable es usarlo con .dll que es lo mas \"dificil\" de encontrar.\n\nes simple, lo inyectan como un dll normal, eso si no usar con rundll32 o RegSvr32 porque seria una autistada, ya que saldria en el .pf",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1482717768880226505",
+          "url": "https://cdn.discordapp.com/attachments/1482716948289556481/1482717768880226505/2026-03-15_13-29-17.mp4?ex=6a33e507&is=6a329387&hm=6018024c63caf07f8e95dd474b70fca99860f1d74b7ff4f6b11394a0e6b6fdc9&",
+          "fileName": "2026-03-15_13-29-17.mp4",
+          "fileSizeBytes": 24281175
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482859370550132908",
+      "type": "Default",
+      "timestamp": "2026-03-15T18:53:44.134-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ejemplos: ᴀ ʙ ᴄ ᴅ ᴇ ғ ɢ ʜ ɪ ᴊ ᴋ ʟ ᴍ",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

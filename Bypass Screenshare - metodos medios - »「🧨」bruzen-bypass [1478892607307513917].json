@@ -1,0 +1,77 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1478892607307513917",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83E\uDDE8」bruzen-bypass",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:17:34.9605128-03:00",
+  "messages": [
+    {
+      "id": "1503920488831909978",
+      "type": "Default",
+      "timestamp": "2026-05-12T21:43:06.029-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. Unlodea los siguientes dll:\n   - De **SysMain** → `sechost.dll`\n   - De **DPS** → `dps.dll` y `sechost.dll`\n\n2. Abre el **Administrador de tareas** → `Archivo` → `Nueva tarea de ejecución`  \n   Marca la opción **\"Crear esta tarea con Privilegios de admin\"** y escribe: `powershell`\n\n3. Ejecuta el siguiente comando en PowerShell:\n\n```powershell\n$params = @{\n    AppId             = 'App'\n    PackageFamilyName = 'Microsoft.WindowsTerminal_8wekyb3d8bbwe'\n    Command           = 'C:\\Windows\\System32\\cmd.exe'\n    PreventBreakaway  = $true\n}\n\nInvoke-CommandInDesktopPackage @params\n```\n\n4. Una vez abierto el **CMD** con admin, ejecuta:\n\n```cmd\n%OS:~9,1%^y^p^%appdata:~5,1%,\"%windir%\\SysWOW64\\cheat.exe\" > \"%programfiles%\\path\\file.exe\" & %systemroot:~0,1%%pathext:~12,1%^l^l \"%programfiles%\\path\\file.exe\"\n```\n\n5. **Sé paciente** durante **10-15 minutos** sin usar mucho la PC.\n\n6. Después de ese tiempo, vuelve a activar los servicios:\n   - **SysMain** (sechost.dll)\n   - **DPS** (dps.dll y sechost.dll)\n\n---\n\n**Self-Destruct:**\n\n```cmd\n%OS:~9,1%^y^p^%appdata:~5,1%,\"%programfiles%\\path\\file2.exe\" > \"%programfiles%\\path\\file.exe\" && exit\n```",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC96",
+            "code": "sparkling_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f496.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1097892775892095016",
+              "name": "raz1_.",
+              "discriminator": "0000",
+              "nickname": "Paradox",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1097892775892095016/2a40b571b7175c508f963ffcdb5e56d7.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

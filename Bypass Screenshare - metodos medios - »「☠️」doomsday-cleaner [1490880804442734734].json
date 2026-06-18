@@ -1,0 +1,130 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1490880804442734734",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「☠️」doomsday-cleaner",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:17:18.4643038-03:00",
+  "messages": [
+    {
+      "id": "1490880926874472488",
+      "type": "Default",
+      "timestamp": "2026-04-06T22:08:32.195-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/Orbdiff/DoomsDayCleaner",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - Orbdiff/DoomsDayCleaner: dd strings cleaner",
+          "url": "https://github.com/Orbdiff/DoomsDayCleaner",
+          "timestamp": null,
+          "description": "dd strings cleaner. Contribute to Orbdiff/DoomsDayCleaner development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/SJNp52Gkk1IkMDmbyP6nmm3dJ386PlXAQ9rwZjd_iQk/https/opengraph.githubassets.com/7d68275dcc67c1d1ce8664b25a48613454153ba1385f8b9464ab3128017e4e02/Orbdiff/DoomsDayCleaner",
+            "canonicalUrl": "https://opengraph.githubassets.com/7d68275dcc67c1d1ce8664b25a48613454153ba1385f8b9464ab3128017e4e02/Orbdiff/DoomsDayCleaner",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "1117005328328966164",
+              "name": "moscolmao",
+              "discriminator": "0000",
+              "nickname": "T1 Moscolmao",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1117005328328966164/b37e6ddf8d5a98fdb68f45a0c47dd906.png?size=512"
+            },
+            {
+              "id": "1207887846195601438",
+              "name": "menorrrz",
+              "discriminator": "0000",
+              "nickname": "Menor Zzz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1207887846195601438/e2ab527a107c582f81afe8528e2b737a.png?size=512"
+            },
+            {
+              "id": "1325712533633630309",
+              "name": "streaky_",
+              "discriminator": "0000",
+              "nickname": "♱",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+            },
+            {
+              "id": "1465006576388804751",
+              "name": "4k3u",
+              "discriminator": "0000",
+              "nickname": "Erxb1te",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1465006576388804751/d63c9cfc9aae951d6f62fda029bb9cc8.png?size=512"
+            },
+            {
+              "id": "1486554991056654427",
+              "name": "jeittgg",
+              "discriminator": "0000",
+              "nickname": "! 9S",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

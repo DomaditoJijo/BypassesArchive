@@ -1,0 +1,155 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1481425182882136247",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83D\uDCC4」xml",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:17:24.9618324-03:00",
+  "messages": [
+    {
+      "id": "1481427377400582307",
+      "type": "Default",
+      "timestamp": "2026-03-11T20:03:30.362-03:00",
+      "timestampEdited": "2026-03-11T20:27:57.14-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "este metodo es muy simple y efectivo para bypasear, basicamente vamos a usar una herramienta de windows para compilar un codigo (lo digo de forma que se entienda) y ejecutarlo sin dejar rastros del cheat que ejecutamos en servicios como csrss, sysmain, bam, diagtrack,etc\n\npara hacer esto van a ir a Everything y van a buscar\n\nmsbuild.exe (250kb) y van a copiar la ruta\n\nseguido de esto van a poner la ruta del archivo .xml, les dejo links de ejemplo:\n\nhttps://github.com/bna169/AnchorMacro/blob/main/Calibris.xml\n\nhttps://github.com/bna169/XML/blob/main/payload.xml\n\ny les dejo un video para que se entienda mejor",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1481427378147164180",
+          "url": "https://cdn.discordapp.com/attachments/1481425182882136247/1481427378147164180/image.png?ex=6a347942&is=6a3327c2&hm=385ce511074124c1675ef0859579bc825284c0d6a401d5c82e5f8a905eb324bb&",
+          "fileName": "image.png",
+          "fileSizeBytes": 71332
+        },
+        {
+          "id": "1481427379942330489",
+          "url": "https://cdn.discordapp.com/attachments/1481425182882136247/1481427379942330489/pro.mp4?ex=6a347942&is=6a3327c2&hm=6f3b68d40631bfd17e15e4a04789bd1901d285ec45a89c1dd7b011af1d86d655&",
+          "fileName": "pro.mp4",
+          "fileSizeBytes": 6303921
+        }
+      ],
+      "embeds": [
+        {
+          "title": "AnchorMacro/Calibris.xml at main · bna169/AnchorMacro",
+          "url": "https://github.com/bna169/AnchorMacro/blob/main/Calibris.xml",
+          "timestamp": null,
+          "description": "Contribute to bna169/AnchorMacro development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uBRDAQ-BcJHM-R6q0ep4uWOf6zdCV0qG883LnqKui0E/https/opengraph.githubassets.com/e426e568c0eefe29e2ae0e85248f9a57cac164b2d48f7db52616ed379c20c2ea/bna169/AnchorMacro",
+            "canonicalUrl": "https://opengraph.githubassets.com/e426e568c0eefe29e2ae0e85248f9a57cac164b2d48f7db52616ed379c20c2ea/bna169/AnchorMacro",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "XML/payload.xml at main · bna169/XML",
+          "url": "https://github.com/bna169/XML/blob/main/payload.xml",
+          "timestamp": null,
+          "description": "Sneaky Clicker LOL. Contribute to bna169/XML development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mLklht8QtjgWZyh06aGVzArQOdOxtqqGDGfUm5U9PyM/https/opengraph.githubassets.com/86f3eb9cbde74a144bb46cf8edd2390e8e7e59a92de020f53839fa189535c9d8/bna169/XML",
+            "canonicalUrl": "https://opengraph.githubassets.com/86f3eb9cbde74a144bb46cf8edd2390e8e7e59a92de020f53839fa189535c9d8/bna169/XML",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1324096950038958100",
+              "name": "tudyonfire",
+              "discriminator": "0000",
+              "nickname": "@Tudo.",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324096950038958100/f8624fbbe317bd4ace095cdb7d123804.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481427469654294645",
+      "type": "Default",
+      "timestamp": "2026-03-11T20:03:52.357-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "si quieren pueden crear sus propios .xml y poner sus cheats ahi",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

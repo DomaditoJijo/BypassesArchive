@@ -1,0 +1,122 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1470424546132754617",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83D\uDC65」process-doppelganging",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:29.0822277-03:00",
+  "messages": [
+    {
+      "id": "1470425083351924969",
+      "type": "Default",
+      "timestamp": "2026-02-09T11:24:19.048-03:00",
+      "timestampEdited": "2026-02-09T11:28:55.834-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "carga un ejecutable falso  en la memoria sin escribirlo en el disco y se crea el archivo oculto, despues se crea un proceso desde ese archivo oculto y el proceso se corre pero el archivo real  nunca existe\n\nhttps://github.com/hasherezade/process_doppelganging\n\nse usa igual que todos los injectors",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1470425083720761509",
+          "url": "https://cdn.discordapp.com/attachments/1470424546132754617/1470425083720761509/image.png?ex=6a33ff93&is=6a32ae13&hm=a632ccbffd9dd8d63ff0bf2a97bf7d1af12a605820f3767880789949b9276d11&",
+          "fileName": "image.png",
+          "fileSizeBytes": 13740
+        }
+      ],
+      "embeds": [
+        {
+          "title": "GitHub - hasherezade/process_doppelganging: My implementation of en...",
+          "url": "https://github.com/hasherezade/process_doppelganging",
+          "timestamp": null,
+          "description": "My implementation of enSilo's Process Doppelganging (PE injection technique) - hasherezade/process_doppelganging",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bnlEhi2VrX-G0alYt9jEOl02lx2fDfJI1QATtrUncBA/https/opengraph.githubassets.com/9c212d831fec0036c809b8d4285733c2357ddf2ab889a21b08d753270186259d/hasherezade/process_doppelganging",
+            "canonicalUrl": "https://opengraph.githubassets.com/9c212d831fec0036c809b8d4285733c2357ddf2ab889a21b08d753270186259d/hasherezade/process_doppelganging",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE33",
+            "code": "flushed",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f633.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1229884444278788219",
+              "name": "felipetyson_",
+              "discriminator": "0000",
+              "nickname": "felipe",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1229884444278788219/863d139e44479b2f853eb8a7de9ffd0e.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "695035750152142899",
+              "name": "lgh.dll",
+              "discriminator": "0000",
+              "nickname": "lgh",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/695035750152142899/e1f333fe5f643a85467414f9d53a9eb2.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

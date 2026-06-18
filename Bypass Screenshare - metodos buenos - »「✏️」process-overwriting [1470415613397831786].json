@@ -1,0 +1,122 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1470415613397831786",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「✏️」process-overwriting",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:17:13.5071643-03:00",
+  "messages": [
+    {
+      "id": "1470416101287657737",
+      "type": "Default",
+      "timestamp": "2026-02-09T10:48:37.557-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/hasherezade/process_overwriting/releases/tag/v1.1\n\nes un una variante de un process hollowing, para que funcione ambos .exe tienen que ser 32 bites / 64 bites, y como los demas injectors tienen que tener un peso similar, en este caso te exige que pese un poco mas el .exe legit que el cheat",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1470416101505765436",
+          "url": "https://cdn.discordapp.com/attachments/1470415613397831786/1470416101505765436/image.png?ex=6a33f735&is=6a32a5b5&hm=76bbee17fc93246b43acf62bbba2715b64c2f2700fc53ba1a6f53ddcce49e272&",
+          "fileName": "image.png",
+          "fileSizeBytes": 6770
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Release v1.1 · hasherezade/process_overwriting",
+          "url": "https://github.com/hasherezade/process_overwriting/releases/tag/v1.1",
+          "timestamp": null,
+          "description": "README",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_14-IzA4clSr_LxkXOjqaTNYWf4dQcaGwOZLCjek16c/https/opengraph.githubassets.com/9a1b35deb681685d4f00826f9e12b9d00b858e8c4031ec9fa9e40929531d4ba3/hasherezade/process_overwriting/releases/tag/v1.1",
+            "canonicalUrl": "https://opengraph.githubassets.com/9a1b35deb681685d4f00826f9e12b9d00b858e8c4031ec9fa9e40929531d4ba3/hasherezade/process_overwriting/releases/tag/v1.1",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC12",
+            "code": "monkey",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f412.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1301670282699735090",
+              "name": "handle.tsx",
+              "discriminator": "0000",
+              "nickname": "Roxii",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC80",
+            "code": "skull",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f480.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1118562004693688350",
+              "name": "merge1264",
+              "discriminator": "0000",
+              "nickname": "Merge",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1118562004693688350/7ec994ffb1341116b8ebf4a739f29761.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1451787198750785638",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83D\uDCCA」eventvwr-powershell",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:29.5793252-03:00",
+  "messages": [
+    {
+      "id": "1452062947521069189",
+      "type": "Default",
+      "timestamp": "2025-12-20T19:19:44.714-03:00",
+      "timestampEdited": "2025-12-20T19:21:38.424-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bypasss Fileless ( Simple )\n\n1)  abre el event viewer win + r = `eventvwr`\n\n2) abre el apartado de \"Registros de aplicaciones y servicios\"\n\n3) luego click derecho en \"Windows Powershell\" y selecciona propiedades\n\n4) En ruta de registro, cambia o el nombre, o la ruta al archivo, cualquier cosa solo para que el archivo no sea el mismo de antes (tengan como nota guardar el anterior, por defecto viene asi por si lo pierden: `%SystemRoot%\\System32\\Winevt\\Logs\\System.evtx`)\n\n5) Ejecuten su Fileless.\n\n6) Cambian el archivo de .evtx al normal. `%SystemRoot%\\System32\\Winevt\\Logs\\Windows PowerShell.evtx`\n\n**Importante usar https://discord.com/channels/1385680731212218449/1385699377066147870**\n\nSe los podrian detectar dumpeando ram\n\nMetodo simple, pero muy efectivo (bypass asegurado en mayoria de svs chotos lol)",
+      "author": {
+        "id": "1134486884970659990",
+        "name": "cheatingmoment",
+        "discriminator": "0000",
+        "nickname": "sicasss",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1134486884970659990/b6c355292898e4f272b31e4a9179f86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

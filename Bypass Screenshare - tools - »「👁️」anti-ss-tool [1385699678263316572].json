@@ -1,0 +1,251 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1385699678263316572",
+    "type": "GuildTextChat",
+    "categoryId": "1479343192078811136",
+    "category": "tools",
+    "name": "»「\uD83D\uDC41️」anti-ss-tool",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:21:38.1248043-03:00",
+  "messages": [
+    {
+      "id": "1385699697775087708",
+      "type": "Default",
+      "timestamp": "2025-06-20T16:15:53.005-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://workupload.com/file/49vehswcCqs",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385699749541318778",
+      "type": "Default",
+      "timestamp": "2025-06-20T16:16:05.347-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1385699749554032761",
+          "url": "https://cdn.discordapp.com/attachments/1385699678263316572/1385699749554032761/image.png?ex=6a3443f5&is=6a32f275&hm=0b4526e38915328baea8ba8ed93ba9fd3221c1a3ac305277614b68e810802f35&",
+          "fileName": "image.png",
+          "fileSizeBytes": 72196
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1438368561616916653",
+      "type": "Default",
+      "timestamp": "2025-11-13T00:23:08.685-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1438368561381769378",
+          "url": "https://cdn.discordapp.com/attachments/1385699678263316572/1438368561381769378/vanish.exe?ex=6a340d5c&is=6a32bbdc&hm=ac2019d1fbfc291033f84a91153b9a2a3920433a5ae56706878b8df5692fb042&",
+          "fileName": "vanish.exe",
+          "fileSizeBytes": 1422336
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCA9",
+            "code": "poop",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4a9.svg"
+          },
+          "count": 7,
+          "users": [
+            {
+              "id": "499007452046557214",
+              "name": "devintages",
+              "discriminator": "0000",
+              "nickname": "Polaco",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/499007452046557214/7c29668af604469c379ca7db9dd0e7aa.png?size=512"
+            },
+            {
+              "id": "808654482832490506",
+              "name": "naderbr",
+              "discriminator": "0000",
+              "nickname": "[NAS] Simba La Rue \uD83D\uDCA6",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/808654482832490506/cffba813d90ee71aeb1f5f5022569734.png?size=512"
+            },
+            {
+              "id": "1294159463493664822",
+              "name": "meeem_6",
+              "discriminator": "0000",
+              "nickname": "م",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1294159463493664822/91f57880cc498120a8a34f93eec4b607.png?size=512"
+            },
+            {
+              "id": "1322533714277961791",
+              "name": "solary67",
+              "discriminator": "0000",
+              "nickname": "Slinky",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+            },
+            {
+              "id": "1381422486192787511",
+              "name": "u2wk",
+              "discriminator": "0000",
+              "nickname": "R #gg",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1381422486192787511/61d0bd48959a41609ba7a969979c0fe3.png?size=512"
+            },
+            {
+              "id": "1490041350786388019",
+              "name": "safazxc",
+              "discriminator": "0000",
+              "nickname": "Safa",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1490041350786388019/ed7624ebad94941bdee20ffa985d1ea9.png?size=512"
+            },
+            {
+              "id": "1491508422527680634",
+              "name": "drakoo.nett",
+              "discriminator": "0000",
+              "nickname": "! Drakoo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1491508422527680634/099b902a5bdcda9a232b12231023365e.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "6️⃣",
+            "code": "six",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/36-20e3.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "499007452046557214",
+              "name": "devintages",
+              "discriminator": "0000",
+              "nickname": "Polaco",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/499007452046557214/7c29668af604469c379ca7db9dd0e7aa.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "7️⃣",
+            "code": "seven",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/37-20e3.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "499007452046557214",
+              "name": "devintages",
+              "discriminator": "0000",
+              "nickname": "Polaco",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/499007452046557214/7c29668af604469c379ca7db9dd0e7aa.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

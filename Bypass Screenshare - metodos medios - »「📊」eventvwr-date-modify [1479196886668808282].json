@@ -1,0 +1,62 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1479196886668808282",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83D\uDCCA」eventvwr-date-modify",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:27.2607767-03:00",
+  "messages": [
+    {
+      "id": "1479197763349774528",
+      "type": "Default",
+      "timestamp": "2026-03-05T16:23:48.948-03:00",
+      "timestampEdited": "2026-03-05T16:55:36.712-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "metodo sencillo, consta de modificar las columnas dentro de el visor de eventos\n\nhacemos click en el tiempo o en las rayas, y buscaremos la opcion de modificar las columnas\n\nseleccionamos fecha y hora y lo retiramos.\n\ny listo, asi bypasseamos eventvwr en casi todos los servers basura, sirve en todos los apartados, salu2!",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1479197763076882462",
+          "url": "https://cdn.discordapp.com/attachments/1479196886668808282/1479197763076882462/2026-02-22_16-50-13.mp4?ex=6a3445c4&is=6a32f444&hm=3936af9313a87087bfb15210235a7dc18d4aa3d1a78814ee70b8b3f38d769f77&",
+          "fileName": "2026-02-22_16-50-13.mp4",
+          "fileSizeBytes": 19734216
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

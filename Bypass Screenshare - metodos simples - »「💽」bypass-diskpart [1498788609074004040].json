@@ -1,0 +1,94 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1498788609074004040",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDCBD」bypass-diskpart",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:33.0216299-03:00",
+  "messages": [
+    {
+      "id": "1498789025698549880",
+      "type": "Default",
+      "timestamp": "2026-04-28T17:52:29.88-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esto mas que en bypass es una informacion q deberian saber, pueden abrir  discos virtuales sin la necesidad de crear uno  cada q lo quieren usar o tenerlo guardado en diskpart y asignarle una letra\n\nsolo creen uno y vayan a la ruta C:\\ y le hacen doble click a su disco y se les va a abrir sin dejar logs de que lo hicieron\n\n(obvio no bypasean ftk imager)",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1498789025245560944",
+          "url": "https://cdn.discordapp.com/attachments/1498788609074004040/1498789025245560944/image.png?ex=6a345a8d&is=6a33090d&hm=6aa677c558584317297b37465484aff54b708613737668ce86d6ae74568ff7d0&",
+          "fileName": "image.png",
+          "fileSizeBytes": 36630
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1498790166477803560",
+      "type": "Default",
+      "timestamp": "2026-04-28T17:57:01.863-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lo añado porq vi q un par q me hacian ss les decia q el cheat lo tenia en otro disco y buscaban  en diskpart o buscaban un pendrive, pero no les aparecia porq se abre desde ahi",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

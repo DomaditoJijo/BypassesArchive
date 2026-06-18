@@ -1,0 +1,77 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1481079024720810135",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83C\uDFA5」hide-grabadoras",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:18:37.6925843-03:00",
+  "messages": [
+    {
+      "id": "1481081984301269116",
+      "type": "Default",
+      "timestamp": "2026-03-10T21:11:02.23-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Grabadora (Bandicam, HTML Recorder, etc.)\n\n\n Paso 1: Obtener los handles de la ventana\n\nAbre System Informer.\nVe al menú: View → Windows.\nLocaliza la ventana de la aplicación de grabación (por ejemplo, Bandicam o Grabadora HTML).\nCopia los handles asociados a esa ventana.\nGuarda los handles en un archivo de texto o en una carpeta para tenerlos registrados.\n\n---\n\n Paso 2: Cambiar el título de la ventana\n\nAbre la herramienta Windows Title Changer.\nBusca la ventana correspondiente (por ejemplo, Bandicam, HTML Recorder, etc.).\nBorra el nombre original de la ventana.\nAsigna un nuevo título o deja el campo en blanco si deseas ocultarlo.\nPresiona “Change Title” para aplicar el cambio.\n\n---\n\n Paso 3: Ocultar o deshabilitar los handles\n\nRegresa a System Informer → View → Windows.\nBusca los handles que copiaste previamente.\nSelecciónalos y cambia su estado a: invisible y disable \n\n   \nhttps://www.murgee.com/window-title-changer/",
+      "author": {
+        "id": "1321929306288427119",
+        "name": ".ssxw",
+        "discriminator": "0000",
+        "nickname": "wluz",
+        "color": "#9E6BFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1452342026002759801",
+            "name": "papu",
+            "color": "#9E6BFF",
+            "position": 31
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1321929306288427119/9a24c06825b71b27af81c0abbb0c49a0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Change Window Title with Window Title Changer",
+          "url": "https://www.murgee.com/window-title-changer/",
+          "timestamp": null,
+          "description": "Change Any Window Title with this freeware software named Window Title Changer. The Free Software lists Windows and allow you to change them as and when required. Download the free software utility and change title of any window.",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

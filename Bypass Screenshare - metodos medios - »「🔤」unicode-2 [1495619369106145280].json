@@ -1,0 +1,218 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1495619369106145280",
+    "type": "GuildTextChat",
+    "categoryId": "1461572150828990605",
+    "category": "metodos medios",
+    "name": "»「\uD83D\uDD24」unicode-2",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:10.0432888-03:00",
+  "messages": [
+    {
+      "id": "1495619877828821124",
+      "type": "Default",
+      "timestamp": "2026-04-19T23:59:26.148-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "van a crear una carpeta y le van a poner de nombre el siguiente caracter:\n\n```ㅤ```\n\ndentro de esa carpeta van a meter su dll y le ponen la extension que quieran\n\ndespues lo ejecutan con systeminformer injectandolo a un proceso como por ejemplo notepad\n\ny ya gg bypasean pftrace, prefetch, los regex de spokwn de csrss, no dejan log en journal mientras no muevan de lugar el dll ni nada",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1495619877564710952",
+          "url": "https://cdn.discordapp.com/attachments/1495619369106145280/1495619877564710952/image.png?ex=6a3407ce&is=6a32b64e&hm=708ce1673dd63af4ec42f190885cc8f41ca38496d57d6703fb97cb000918b1a1&",
+          "fileName": "image.png",
+          "fileSizeBytes": 22028
+        },
+        {
+          "id": "1495619877883609199",
+          "url": "https://cdn.discordapp.com/attachments/1495619369106145280/1495619877883609199/image.png?ex=6a3407ce&is=6a32b64e&hm=f74c20dfd9164d548043eb76c3f9e9cf70339dca246ac790bfd8c160a6b2b9dc&",
+          "fileName": "image.png",
+          "fileSizeBytes": 28038
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1438951996626305034",
+              "name": "hilebaz",
+              "discriminator": "0000",
+              "nickname": "☨       hilebaz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1438951996626305034/2ee08200ff74628cdfe5004ad0629f1d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495620388468822046",
+      "type": "Default",
+      "timestamp": "2026-04-20T00:01:27.894-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah y bypasea la tool de spokwn que scanea caracteres unicode (ya asi sea scanear diagtrack o el metodo de csrss.bin) ninguno de los dos lo detecta",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495924033445695568",
+      "type": "Default",
+      "timestamp": "2026-04-20T20:08:02.498-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Deja los mismos log que un dll solo que con otra extensión",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495924079964983426",
+      "type": "Default",
+      "timestamp": "2026-04-20T20:08:13.589-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Osea si lo buscas en csrss con su extensión va salir",
+      "author": {
+        "id": "1325712533633630309",
+        "name": "streaky_",
+        "discriminator": "0000",
+        "nickname": "♱",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325712533633630309/7bc3db982202dde546a52c03415297f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495931106074165520",
+      "type": "Default",
+      "timestamp": "2026-04-20T20:36:08.744-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no sale en los regex de spokwn, solo sale si buscas el nombre exacto, pero si no encontras un log no podes saber como se llama",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 5
+}

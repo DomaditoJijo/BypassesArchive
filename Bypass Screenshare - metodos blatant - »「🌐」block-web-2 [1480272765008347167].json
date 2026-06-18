@@ -1,0 +1,98 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1480272765008347167",
+    "type": "GuildTextChat",
+    "categoryId": "1451789143733567578",
+    "category": "metodos blatant",
+    "name": "»「\uD83C\uDF10」block-web-2",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:20:37.0801291-03:00",
+  "messages": [
+    {
+      "id": "1480317537185960066",
+      "type": "Default",
+      "timestamp": "2026-03-08T18:33:23.835-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. Windows + R: inetcpl.cpl\n2. Seguridad\n3. Sitios Restringidos (añadiran la web a bloquear)\n\n@More hay que trabajar",
+      "author": {
+        "id": "1301670282699735090",
+        "name": "handle.tsx",
+        "discriminator": "0000",
+        "nickname": "Roxii",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1301670282699735090/05be7a44abe1bfd5a9dfc540f4ad31ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1480317536905199777",
+          "url": "https://cdn.discordapp.com/attachments/1480272765008347167/1480317536905199777/2026-03-08_22-31-46.mp4?ex=6a346423&is=6a3312a3&hm=938aac28d1621d09581d329babcab219be5c1ac853cb2ae6d37fb57f781c62e0&",
+          "fileName": "2026-03-08_22-31-46.mp4",
+          "fileSizeBytes": 30893630
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "869251746571108404",
+          "name": "_addmore",
+          "discriminator": "0000",
+          "nickname": "More",
+          "color": "#FF0000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1498119439961559170",
+              "name": "inbaneable",
+              "color": null,
+              "position": 33
+            },
+            {
+              "id": "1449322432199524383",
+              "name": "CEO",
+              "color": "#FF0000",
+              "position": 30
+            },
+            {
+              "id": "1503946353901047858",
+              "name": "Bots",
+              "color": "#826BC2",
+              "position": 20
+            },
+            {
+              "id": "1485053790242476102",
+              "name": "Verified",
+              "color": "#2C6D2C",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/869251746571108404/55f8334959e8af66723ea710215b59c2.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

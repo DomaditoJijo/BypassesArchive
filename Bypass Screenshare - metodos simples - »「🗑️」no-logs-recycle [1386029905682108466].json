@@ -1,0 +1,77 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1386029905682108466",
+    "type": "GuildTextChat",
+    "categoryId": "1394079719963496499",
+    "category": "metodos simples",
+    "name": "»「\uD83D\uDDD1️」no-logs-recycle",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:20:21.9373611-03:00",
+  "messages": [
+    {
+      "id": "1452075197330100305",
+      "type": "Default",
+      "timestamp": "2025-12-20T20:08:25.296-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Esto se utiliza para borrar archivos sin que se modifique la fecha de la Papelera de reciclaje.\n\nLos archivos se eliminan directamente desde C:\\$Recycle.Bin. Para ello, en las propiedades de la Papelera de reciclaje se debe activar la opción “No mover archivos a la Papelera de reciclaje. Quitarlos inmediatamente al eliminarlos”.\n\nDe esta forma, cuando se elimina un archivo usando Shift + Suprimir, la fecha de la Papelera no se ve alterada.\n\nAdemás, estos archivos no aparecen en herramientas de recuperación como la mostrada en la imagen.\n\nCabe aclarar que esto deja **logs en el USN Journal**, por lo que no es muy útil ejecutar un archivo y eliminarlo.",
+      "author": {
+        "id": "1134486884970659990",
+        "name": "cheatingmoment",
+        "discriminator": "0000",
+        "nickname": "sicasss",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1134486884970659990/b6c355292898e4f272b31e4a9179f86d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1452075195614363670",
+          "url": "https://cdn.discordapp.com/attachments/1386029905682108466/1452075195614363670/2025-12-20_18-07-28.mp4?ex=6a347a68&is=6a3328e8&hm=9f56b675b969e8fb14575f0a7ec8308580dfec11464f822456f0062520153012&",
+          "fileName": "2025-12-20_18-07-28.mp4",
+          "fileSizeBytes": 65739101
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD23",
+            "code": "rofl",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f923.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1158284135127847046",
+              "name": "deleted_user_a2f16277c684",
+              "discriminator": "0000",
+              "nickname": "deleted_user_a2f16277c684",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

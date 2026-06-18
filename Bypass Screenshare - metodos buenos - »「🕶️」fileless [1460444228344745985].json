@@ -1,0 +1,358 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1460444228344745985",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83D\uDD76️」fileless",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:15.8748228-03:00",
+  "messages": [
+    {
+      "id": "1460446603990274293",
+      "type": "Default",
+      "timestamp": "2026-01-12T22:33:24.177-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Simple bypass method\n\n## step 1: update your powershell to 5+\n\nimma assume you have this, so imma skip it!\n\n## step 2: update psreadline to at least above 2.0.1\n\nusing:\n```\nInstall-Module -Name PSReadLine -Force\n``` \nit will auto update\n\n## step 3: executing your fileless\n\nok, so now, go, grab ur fileless command and add a `# password` at the end(make sure its the end end)\nthis will make ur command not log on eventlog, nor on console_history.txt\n\n\n\nBypass method simple lol\n\n## step 1: updatea tu powershell a 5+\n\nobviaré esto pq asumire q ya lo tienen, es lo normal en win10 o 11, si no lo tienen, actualizen\n\n## step 2: updatear psreadline como minimo a mas de 2.0.1\n\nusando el comando:\n```\nInstall-Module -Name PSReadLine -Force\n``` \nlo updateara a la ultima version\n\n## step 3: ejecutar el fileless\n\nok, ahora ve y agarra tu comando de fileless y añade unn`# password` al final(asegurate q sea bien al final o puede q rompa tu comando)\nesto hará q tu comando no loggee en eventlog ni en console_history.txt",
+      "author": {
+        "id": "1149799913727721485",
+        "name": "spokkkwn.",
+        "discriminator": "0000",
+        "nickname": "stupid ass ego skid #1",
+        "color": "#033100",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489112343983030272",
+            "name": "1337",
+            "color": "#033100",
+            "position": 13
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1149799913727721485/b24986060349791144eaba260105c5f5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "856933195362467862",
+              "name": "legit.x22",
+              "discriminator": "0000",
+              "nickname": "legit.x22",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1121703722263789590",
+              "name": "dxopski",
+              "discriminator": "0000",
+              "nickname": "www",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1121703722263789590/68a73713a4111d79966bd4471721a64a.png?size=512"
+            },
+            {
+              "id": "1233180721351364638",
+              "name": "barcokawai",
+              "discriminator": "0000",
+              "nickname": "barcokawai",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1233180721351364638/fe4602e39d5c71c7c87b2433499331b5.png?size=512"
+            },
+            {
+              "id": "1406327928299458713",
+              "name": "mcalmmdxvv",
+              "discriminator": "0000",
+              "nickname": "zDriper",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1406327928299458713/23b1f99c336dae30de86e14c19059de8.png?size=512"
+            },
+            {
+              "id": "1438951996626305034",
+              "name": "hilebaz",
+              "discriminator": "0000",
+              "nickname": "☨       hilebaz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1438951996626305034/2ee08200ff74628cdfe5004ad0629f1d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1460451521308393756",
+      "type": "Default",
+      "timestamp": "2026-01-12T22:52:56.557-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "btw, este metodo bypassea a cualquier persona q hable español, sin excepcion",
+      "author": {
+        "id": "1149799913727721485",
+        "name": "spokkkwn.",
+        "discriminator": "0000",
+        "nickname": "stupid ass ego skid #1",
+        "color": "#033100",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489112343983030272",
+            "name": "1337",
+            "color": "#033100",
+            "position": 13
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1149799913727721485/b24986060349791144eaba260105c5f5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1460451559245746451",
+      "type": "Default",
+      "timestamp": "2026-01-12T22:53:05.602-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(bueno, yo)",
+      "author": {
+        "id": "1149799913727721485",
+        "name": "spokkkwn.",
+        "discriminator": "0000",
+        "nickname": "stupid ass ego skid #1",
+        "color": "#033100",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489112343983030272",
+            "name": "1337",
+            "color": "#033100",
+            "position": 13
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1149799913727721485/b24986060349791144eaba260105c5f5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1460452586590048520",
+      "type": "Default",
+      "timestamp": "2026-01-12T22:57:10.54-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esperen a q mas gente descubra esto y van a aprender a encontrarlo, @tontoweon @diff @aguacongas",
+      "author": {
+        "id": "1149799913727721485",
+        "name": "spokkkwn.",
+        "discriminator": "0000",
+        "nickname": "stupid ass ego skid #1",
+        "color": "#033100",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489112343983030272",
+            "name": "1337",
+            "color": "#033100",
+            "position": 13
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1149799913727721485/b24986060349791144eaba260105c5f5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1237773691010420757",
+          "name": "desistiremos",
+          "discriminator": "0000",
+          "nickname": "tontoweon",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1237773691010420757/e388bbc53c90ad0607d9486db39de36c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1460452589412815070",
+      "type": "Default",
+      "timestamp": "2026-01-12T22:57:11.213-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bien",
+      "author": {
+        "id": "1149799913727721485",
+        "name": "spokkkwn.",
+        "discriminator": "0000",
+        "nickname": "stupid ass ego skid #1",
+        "color": "#033100",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489112343983030272",
+            "name": "1337",
+            "color": "#033100",
+            "position": 13
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1149799913727721485/b24986060349791144eaba260105c5f5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1460452640730382461",
+      "type": "Default",
+      "timestamp": "2026-01-12T22:57:23.448-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2 de 3 q tiene q speedrunnear detectarlo no estan en el dc",
+      "author": {
+        "id": "1149799913727721485",
+        "name": "spokkkwn.",
+        "discriminator": "0000",
+        "nickname": "stupid ass ego skid #1",
+        "color": "#033100",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489112343983030272",
+            "name": "1337",
+            "color": "#033100",
+            "position": 13
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1149799913727721485/b24986060349791144eaba260105c5f5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1460452645377540117",
+      "type": "Default",
+      "timestamp": "2026-01-12T22:57:24.556-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "suerte",
+      "author": {
+        "id": "1149799913727721485",
+        "name": "spokkkwn.",
+        "discriminator": "0000",
+        "nickname": "stupid ass ego skid #1",
+        "color": "#033100",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489112343983030272",
+            "name": "1337",
+            "color": "#033100",
+            "position": 13
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1149799913727721485/b24986060349791144eaba260105c5f5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 7
+}

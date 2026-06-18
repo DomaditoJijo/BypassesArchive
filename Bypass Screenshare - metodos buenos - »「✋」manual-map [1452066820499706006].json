@@ -1,0 +1,123 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1452066820499706006",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「✋」manual-map",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:13.5893919-03:00",
+  "messages": [
+    {
+      "id": "1452068131689332787",
+      "type": "Default",
+      "timestamp": "2025-12-20T19:40:20.716-03:00",
+      "timestampEdited": "2025-12-20T19:40:40.76-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esto sirve para ejecutar dlls sin necesidad de utilizar regsvr32 o un rundll y que se nos haga mas facil de bypasear\n\nvan a abrir la ruta en donde tengan la tool en cmd, ponen el nombre del dll que quieren inyectar y al lado el proceso",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1452068130212806686",
+          "url": "https://cdn.discordapp.com/attachments/1452066820499706006/1452068130212806686/image.png?ex=6a3473d4&is=6a332254&hm=f67c96bd2c503b5b8f129961cbf5c57eaae88ed19d312bd2f9811cdce5f7d748&",
+          "fileName": "image.png",
+          "fileSizeBytes": 5242
+        },
+        {
+          "id": "1452068130586361976",
+          "url": "https://cdn.discordapp.com/attachments/1452066820499706006/1452068130586361976/ManualMap.exe?ex=6a3473d4&is=6a332254&hm=5913c4b405b4b8825f61701509ebc9109dc8c4ffbe16c88cd018ac4f7249271d&",
+          "fileName": "ManualMap.exe",
+          "fileSizeBytes": 32768
+        },
+        {
+          "id": "1452068131265581056",
+          "url": "https://cdn.discordapp.com/attachments/1452066820499706006/1452068131265581056/sad8.mp4?ex=6a3473d4&is=6a332254&hm=9b0481fc5dffde3f2964835fbd0c138e14f66b058b113193644fda3c8aeefeda&",
+          "fileName": "sad8.mp4",
+          "fileSizeBytes": 1318705
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1455932677952901193",
+      "type": "Default",
+      "timestamp": "2025-12-31T11:36:40.345-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Creditos: @Cuantox",
+      "author": {
+        "id": "1322533714277961791",
+        "name": "solary67",
+        "discriminator": "0000",
+        "nickname": "Slinky",
+        "color": "#FF0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322533714277961791/e4a449565e1a84b2a477c01a8f21d0ee.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1061796414293815367",
+          "name": "cuantoxontopfr",
+          "discriminator": "0000",
+          "nickname": "Cuantox",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1061796414293815367/dd88ceebac3a90908f88be3634c8bac0.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,184 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1505973223840551135",
+    "type": "GuildTextChat",
+    "categoryId": "1461571659453563052",
+    "category": "metodos avanzados",
+    "name": "»「\uD83E\uDDF0」lolbins",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:15:17.8036419-03:00",
+  "messages": [
+    {
+      "id": "1505974240380457040",
+      "type": "Default",
+      "timestamp": "2026-05-18T13:43:58.555-03:00",
+      "timestampEdited": "2026-05-18T13:59:51.123-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://lolbas-project.github.io/   (Living off the Land Binary)  bueno esto lo explico corto para que se entienda: son binarios que utilizan comandos  y son ejecutables preinstalados del sistema operativo (la mayoria vienen firmados), basicamente te puede servir para ejecutar codigo o programas sin tenerlos instalados uno de ellos es Cdb.exe que sirve para shellcode",
+      "author": {
+        "id": "1460764446090723471",
+        "name": "virtualicedddddd",
+        "discriminator": "0000",
+        "nickname": "ٴ឵",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1460764446090723471/1ae0fc5ae0d4d8a2e784514e8f6f9e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 6,
+          "users": [
+            {
+              "id": "834270448598253568",
+              "name": ".hy_x1",
+              "discriminator": "0000",
+              "nickname": "♡ Hyx",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/834270448598253568/af652bf1c2f1f3b666a4ca6d9c754312.png?size=512"
+            },
+            {
+              "id": "856933195362467862",
+              "name": "legit.x22",
+              "discriminator": "0000",
+              "nickname": "legit.x22",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+            },
+            {
+              "id": "1126370663553302559",
+              "name": "ccsgo.",
+              "discriminator": "0000",
+              "nickname": "Ccsgo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+            },
+            {
+              "id": "1189766192810971241",
+              "name": "rznet",
+              "discriminator": "0000",
+              "nickname": "rz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1189766192810971241/1a6947bfce0f52003b0b6022cd677a9e.png?size=512"
+            },
+            {
+              "id": "1281186873359859805",
+              "name": "daanii06_",
+              "discriminator": "0000",
+              "nickname": "daanii06_",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1281186873359859805/e92233b50ede38c2d0e8c8cf5d00859e.png?size=512"
+            },
+            {
+              "id": "1399472629634830397",
+              "name": "yoitsanigga",
+              "discriminator": "0000",
+              "nickname": "yoitsanigga",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1399472629634830397/98efc5b7605fba68f2a9345603eda891.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1505977979258409030",
+      "type": "Default",
+      "timestamp": "2026-05-18T13:58:49.973-03:00",
+      "timestampEdited": "2026-05-18T13:58:58.976-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "by @diego por pasar la pagina",
+      "author": {
+        "id": "1460764446090723471",
+        "name": "virtualicedddddd",
+        "discriminator": "0000",
+        "nickname": "ٴ឵",
+        "color": "#2C6D2C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1460764446090723471/1ae0fc5ae0d4d8a2e784514e8f6f9e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "782589190126698517",
+          "name": "diegcrane",
+          "discriminator": "0000",
+          "nickname": "diego",
+          "color": "#9E6BFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1452342026002759801",
+              "name": "papu",
+              "color": "#9E6BFF",
+              "position": 31
+            },
+            {
+              "id": "1449322432199524383",
+              "name": "CEO",
+              "color": "#FF0000",
+              "position": 30
+            },
+            {
+              "id": "1486307156226605086",
+              "name": "Friend",
+              "color": "#749472",
+              "position": 27
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/782589190126698517/c27d1e284c51f6532f60ec9ca2c70de9.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

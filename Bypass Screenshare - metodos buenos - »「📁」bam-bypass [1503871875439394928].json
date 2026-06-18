@@ -1,0 +1,62 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1503871875439394928",
+    "type": "GuildTextChat",
+    "categoryId": "1479342865292460093",
+    "category": "metodos buenos",
+    "name": "»「\uD83D\uDCC1」bam-bypass",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:16:32.1640206-03:00",
+  "messages": [
+    {
+      "id": "1503872364784390174",
+      "type": "Default",
+      "timestamp": "2026-05-12T18:31:52.362-03:00",
+      "timestampEdited": "2026-05-12T19:12:42.85-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "abren regedit y van a ir a la ruta\n\nHKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\bam\n\n\ndespues expanden las carpetas de state y usersettings\n\nluego en la tercer carpeta se van a dar permisos de administrador\n\ny finalmente  apretan control + f y ponen el nombre de su cheat, una vez tengan el log seleccionado lo borran con click + suprimir (esto bypassea totalmente cualquier bamdeletekeys)",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1503872364964872284",
+          "url": "https://cdn.discordapp.com/attachments/1503871875439394928/1503872364964872284/image.png?ex=6a3463c8&is=6a331248&hm=eec2f5cf73feacabb05970c96310268dc90c35843b56f9872b4bdb7e545d4a72&",
+          "fileName": "image.png",
+          "fileSizeBytes": 36786
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

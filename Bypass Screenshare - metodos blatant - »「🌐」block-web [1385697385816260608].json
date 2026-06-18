@@ -1,0 +1,199 @@
+{
+  "guild": {
+    "id": "1385680731212218449",
+    "name": "Bypass Screenshare",
+    "iconUrl": "https://cdn.discordapp.com/icons/1385680731212218449/3be219b22eb8a5390cc8b0c1c31cf0c6.png?size=512"
+  },
+  "channel": {
+    "id": "1385697385816260608",
+    "type": "GuildTextChat",
+    "categoryId": "1451789143733567578",
+    "category": "metodos blatant",
+    "name": "»「\uD83C\uDF10」block-web",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-17T21:20:38.933651-03:00",
+  "messages": [
+    {
+      "id": "1385697601084719265",
+      "type": "Default",
+      "timestamp": "2025-06-20T16:07:33.115-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1: Ir a  esta carpeta C:\\Windows\\System32\\drivers\\etc\n\nHacer click derecho en el archivo hosts y abrirlo con block de notas\n\nAl final del txt agrega una nueva línea comenzando con 127.0.0.1 y presiona TAB 2 veces luego agrega la web que deseas bloquear (ejemplo echo.ac)",
+      "author": {
+        "id": "732724718209204224",
+        "name": "pate8079",
+        "discriminator": "0000",
+        "nickname": "topaz",
+        "color": "#020202",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1505782196869533757",
+            "name": "topaz",
+            "color": "#020202",
+            "position": 34
+          },
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1452342026002759801",
+            "name": "papu",
+            "color": "#9E6BFF",
+            "position": 31
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          },
+          {
+            "id": "1433743585190088735",
+            "name": "Screensharer",
+            "color": "#D4843D",
+            "position": 26
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385697693128589314",
+      "type": "Default",
+      "timestamp": "2025-06-20T16:07:55.06-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "732724718209204224",
+        "name": "pate8079",
+        "discriminator": "0000",
+        "nickname": "topaz",
+        "color": "#020202",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1505782196869533757",
+            "name": "topaz",
+            "color": "#020202",
+            "position": 34
+          },
+          {
+            "id": "1498119439961559170",
+            "name": "inbaneable",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1452342026002759801",
+            "name": "papu",
+            "color": "#9E6BFF",
+            "position": 31
+          },
+          {
+            "id": "1449322432199524383",
+            "name": "CEO",
+            "color": "#FF0000",
+            "position": 30
+          },
+          {
+            "id": "1433743585190088735",
+            "name": "Screensharer",
+            "color": "#D4843D",
+            "position": 26
+          },
+          {
+            "id": "1485053790242476102",
+            "name": "Verified",
+            "color": "#2C6D2C",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [
+        {
+          "id": "1385697693166211175",
+          "url": "https://cdn.discordapp.com/attachments/1385697385816260608/1385697693166211175/blockingweb.mp4?ex=6a34420b&is=6a32f08b&hm=b20cab08e236a8e8fa7f027fa30b97654a086010d3fc430aa64f2a4005cbf6cf&",
+          "fileName": "blockingweb.mp4",
+          "fileSizeBytes": 1735798
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1483618317250990294",
+      "type": "Default",
+      "timestamp": "2026-03-17T21:09:31.128-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "este bat hace que cuando el staff te elimine la linea del host, se vuelva a añadir automaticamente\n\n(si, lo hizo chatgpt)\n\nnada mas modifiquen la parte que modifique en el video para cambiar la pagina que quieren bloquear, por ejemplo en donde yo puse de ejemplo echo.ac, ustedes pueden poner anticheat.ac o lo que quieran",
+      "author": {
+        "id": "1126370663553302559",
+        "name": "ccsgo.",
+        "discriminator": "0000",
+        "nickname": "Ccsgo",
+        "color": "#797878",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1489281259908894920",
+            "name": "Founder",
+            "color": "#797878",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1126370663553302559/e9db7f5ae485572a9b3e657635636b85.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1483618315720069303",
+          "url": "https://cdn.discordapp.com/attachments/1385697385816260608/1483618315720069303/xd.bat?ex=6a3488ba&is=6a33373a&hm=d815316feb848eab291f8e79c3cdc84f77fc759c322e226bd58609e718a444cd&",
+          "fileName": "xd.bat",
+          "fileSizeBytes": 480
+        },
+        {
+          "id": "1483618316278038680",
+          "url": "https://cdn.discordapp.com/attachments/1385697385816260608/1483618316278038680/sdas.mp4?ex=6a3488ba&is=6a33373a&hm=1aa19c0bccc7d2299b76e52cfa8a8ce169d88ef1e98e2fe89d9aef8ae91530b7&",
+          "fileName": "sdas.mp4",
+          "fileSizeBytes": 10475963
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}
